@@ -1,0 +1,26 @@
+created: 20171117143340444
+modified: 20180105141235196
+tags: tabcal
+title: October
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#October">[img class="goright" height="570" [(by_Mars_2002).jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2018" "10" "">>
+
+"""
+&nbsp;&nbsp;1 - National Day ^^China^^
+&nbsp;&nbsp;2 - Mahatma Gandhi Jayanti ^^India^^
+&nbsp;&nbsp;3 - Day of German Unity ^^Germany^^
+&nbsp;&nbsp;3 - National Foundation Day ^^South Korea^^
+&nbsp;&nbsp;8 - Thanksgiving Day ^^CA^^
+&nbsp;&nbsp;9 - Hanguel Proclamation DAy ^^South Korea^^
+12 - Hispanic Day ^^Spain^^
+20 - Sweetest Day ^^USA^^
+22 - Labour Day ^^New Zealand^^
+26 - National Day ^^Austria^^
+31 - Halloween
+"""
+
+[img height="90" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

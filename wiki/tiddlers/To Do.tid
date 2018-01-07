@@ -1,0 +1,14 @@
+created: 20180105125417152
+modified: 20180105130704869
+tags: Tasks
+title: To Do
+type: text/vnd.tiddlywiki
+
+<$list filter="[!has[draft.of]tag[task]!tag[done]sort[created]]">
+
+<$checkbox tag="done"> <$link to={{!!title}}>
+<$view field="title"/> 
+</$link>
+</$checkbox>
+
+</$list>

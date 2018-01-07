@@ -1,0 +1,19 @@
+created: 20171117144606191
+modified: 20180105141235214
+tags: tabcal
+title: July
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#July">[img class="goright" height="570" [(by_Mars_2002).jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2018" "7" "">>
+
+"""
+&nbsp;&nbsp;1 - Canada Day ^^Canada^^
+&nbsp;&nbsp;4 - Independence Day ^^USA^^
+14 - Bastille Day ^^France^^
+17 - Constitution Day  ^^South Korea^^
+"""
+
+[img height="250" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

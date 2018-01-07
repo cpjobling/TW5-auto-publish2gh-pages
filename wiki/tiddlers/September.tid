@@ -1,0 +1,26 @@
+created: 20171117144049839
+modified: 20180105141235184
+tags: tabcal
+title: September
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#September">[img class="goright" height="570" [(by_Mars_2002).jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2018" "9" "">>
+
+"""
+&nbsp;&nbsp;2 - Father's Day ^^New Zealand^^
+&nbsp;&nbsp;3 - Labor Day
+&nbsp;&nbsp;7 - Independence Day ^^Brazil^^
+&nbsp;&nbsp;9 - Grandparent's Day ^^USA^^
+10 - Rosh Hashana
+12 - Muslim New Year ^^Saudi Arabia^^
+16 - Independence Day  ^^Mexico^^
+17 - Respect for the Aged Day  ^^Japan^^
+19 - Yom Kippur
+23 - Saudi National Day ^^Saudi Arabia^^
+24 - Autumn Equinox Day  ^^Japan^^
+"""
+
+[img height="70" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

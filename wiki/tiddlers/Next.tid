@@ -1,0 +1,23 @@
+caption: 2019
+created: 20171117150324827
+modified: 20180105141235202
+tags: tabcal
+title: Next
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#Next">[img class="goright" height="570" [(by_Mars_2002).jpg]]</a> <!-- set height of picture, also picture is link to month -->
+<<diary "2019" "1" "">>
+<<diary "2019" "2" "">>
+<<diary "2019" "3" "">>
+
+<!--
+[img height="10" [$:/images/shim.gif]] --><!-- fill rest of tiddler to match picture height
+-->
+
+<!--
+
+or for whole year, without picture use only:
+<<diary "2019" "" "">>
+
+-->

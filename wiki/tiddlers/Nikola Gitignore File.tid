@@ -1,0 +1,15 @@
+created: 20180105154131781
+modified: 20180105155435267
+tags: Reference nikola git
+title: Nikola Gitignore File
+type: text/vnd.tiddlywiki
+
+```
+.doit.db
+.doit.db.db
+*~
+output
+cache
+__pycache__
+.ipynb_checkpoints
+```

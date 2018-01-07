@@ -1,0 +1,23 @@
+created: 20171117143906909
+modified: 20180105141235223
+tags: tabcal
+title: December
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#December">[img class="goright" height="570" [(by_Mars_2002).jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2018" "12" "">>
+
+"""
+&nbsp;&nbsp;3 - Hanukkah (starts)
+&nbsp;&nbsp;5 - Saint Nicholas' Eve ^^Netherlands^^
+10 - Hanukkah (last day)
+23 - Emperor's Birthday  ^^Japan^^
+25 - Christmas Day
+26 - Boxing Day ^^United Kingdom,^^ ^^Germany,^^ ^^Australia,^^ ^^New Zealand^^
+26 - Kwanzaa (starts) ^^USA^^
+31 - New Year's Eve
+"""
+
+[img height="140" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

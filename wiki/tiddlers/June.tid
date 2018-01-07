@@ -1,0 +1,22 @@
+created: 20171117144521451
+modified: 20180105141235210
+tags: tabcal
+title: June
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#June">[img class="goright" height="570" [(by_Mars_2002).jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2018" "6" "">>
+
+"""
+&nbsp;&nbsp;4 - Queen's Birthday  ^^New Zealand^^
+&nbsp;&nbsp;9 - Queen's Birthday ^^United Kingdom^^
+12 - Russia Day ^^Russia^^
+12 - Valentine's Day ^^Brazil^^
+15 - Eid al-Fitr (Ramadan ends)
+17 - Father's Day
+18 - Dragon Boat Festival ^^China^^
+"""
+
+[img height="180" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

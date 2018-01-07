@@ -1,0 +1,13 @@
+created: 20171221192150233
+creator: Chris Jobling
+modified: 20180105131908546
+modifier: Chris Jobling
+tags: Tasks
+title: Completed
+type: text/vnd.tiddlywiki
+
+<$list filter="[!has[draft]tag[task]tag[done]sort[created]]">
+
+<$checkbox tag="done"> ~~<$link to={{!!title}}><$view field="title" /></$link>~~</$checkbox> -- <$view field="created" format="date" template="DDth mmm YYYY hh:mm" />
+
+</$list>
