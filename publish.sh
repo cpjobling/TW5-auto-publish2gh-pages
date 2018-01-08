@@ -1,8 +1,9 @@
 #!/bin/bash
 
+# Add CNAME record needed for custom domain on GH-Pages
+cp CNAME ./*wiki/output
 # go to the output directory and create a new git repo
 cd ./*wiki/output || exit 1 # abort script if folder does not exists
-echo "journal.cpjobling.net" > ./*wiki/output/CNAME
 git init
 
 # inside this git repo we'll pretend to be a new user

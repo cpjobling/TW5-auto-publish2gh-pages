@@ -1,6 +1,6 @@
 created: 20180107111518176
 creator: Chris Jobling
-modified: 20180107195746080
+modified: 20180108001951936
 modifier: Chris Jobling
 tags: Journal conctact
 title: 7th January 2018
@@ -14,6 +14,7 @@ type: text/vnd.tiddlywiki
 * Made a Chilli
 * Set-up a custom domain for [[journal.cpjobling.net|http://journal.cpjobling.net]] using [[these instructions|https://help.github.com/articles/using-a-custom-domain-with-github-pages/]].
 * imported my Stories from Storify to Wakelet.com as a test -- it worked.
+* needed to add [[extra command to add CNAME to GitHub pages]].
 
 ! Today I Learned
 
