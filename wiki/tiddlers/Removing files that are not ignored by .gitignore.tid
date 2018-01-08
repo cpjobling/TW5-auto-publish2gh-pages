@@ -1,0 +1,23 @@
+created: 20180108094631330
+modified: 20180108094901413
+tags: Reference
+title: Removing files that are not ignored by .gitignore
+type: text/vnd.tiddlywiki
+
+I've needed this twice so I kept a copy for reference!
+
+From: https://stackoverflow.com/questions/11451535/gitignore-is-not-working
+
+<<<
+Even if you haven't tracked the files so far, git seems to be able to "know" about them even after you add them to .gitignore.
+
+!NOTE : First commit your current changes, or you will lose them.
+
+Then run the following commands from the top folder of your git repo:
+
+```sh
+git rm -r --cached .
+git add .
+git commit -m "fixed untracked files"
+```
+<<<
