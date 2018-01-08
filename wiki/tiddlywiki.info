@@ -1,5 +1,5 @@
 {
-    "description": "Basic client-server edition",
+    "description": "Empty edition",
     "plugins": [
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
@@ -12,20 +12,22 @@
         "tiddlywiki/snowwhite"
     ],
     "languages": [
-  		"en-US"
+  		"en-GB"
   	],
     "build": {
         "index": [
             "--rendertiddler",
-            "$:/plugins/tiddlywiki/tiddlyweb/save/offline",
+            "$:/core/save/all",
             "index.html",
             "text/plain"
         ],
         "favicon": [
-          "--savetiddler","$:/favicon.ico","favicon.ico"],
-          "readme": [
+          "--savetiddler","$:/favicon.ico","favicon.ico"
+        ],
+        "readme": [
             "--rendertiddler","ReadMe","readme.md","text/html",
-            "--rendertiddler","License","license.md","text/html"],
+            "--rendertiddler","License","license.md","text/html"
+        ],
         "externalimages": [
             "--savetiddlers",
             "[is[image]]",
@@ -41,7 +43,7 @@
             "",
             "text/plain",
             "--rendertiddler",
-            "$:/plugins/tiddlywiki/tiddlyweb/save/offline",
+            "$:/core/save/all",
             "externalimages.html",
             "text/plain"
         ],
@@ -65,4 +67,4 @@
             "text/plain"
         ]
     }
-}
+}%
