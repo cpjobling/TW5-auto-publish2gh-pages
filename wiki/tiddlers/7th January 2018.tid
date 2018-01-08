@@ -1,5 +1,7 @@
 created: 20180107111518176
-modified: 20180107194755693
+creator: Chris Jobling
+modified: 20180107195746080
+modifier: Chris Jobling
 tags: Journal conctact
 title: 7th January 2018
 type: text/vnd.tiddlywiki
@@ -11,6 +13,7 @@ type: text/vnd.tiddlywiki
 * Went for a walk around Singleton park
 * Made a Chilli
 * Set-up a custom domain for [[journal.cpjobling.net|http://journal.cpjobling.net]] using [[these instructions|https://help.github.com/articles/using-a-custom-domain-with-github-pages/]].
+* imported my Stories from Storify to Wakelet.com as a test -- it worked.
 
 ! Today I Learned
 

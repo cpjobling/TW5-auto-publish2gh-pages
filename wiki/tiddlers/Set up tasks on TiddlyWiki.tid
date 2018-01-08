@@ -1,5 +1,7 @@
 created: 20180105092157025
+creator: Chris Jobling
 modified: 20180105133448549
+modifier: Chris Jobling
 tags: task done
 title: Set up tasks on TiddlyWiki
 type: text/vnd.tiddlywiki
@@ -16,7 +18,7 @@ Watching this [[video|https://youtu.be/mzoMhKx0j8g]] from [[Francis Meetze|https
 <$list filter="[!has[draft.of]tag[task]!tag[done]sort[created]]">
 
 <$checkbox tag="done"> <$link to={{!!title}}>
-<$view field="title"/> 
+<$view field="title"/>
 </$link>
 </$checkbox>
 

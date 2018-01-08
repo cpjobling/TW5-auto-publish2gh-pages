@@ -1,5 +1,7 @@
 created: 20180105092012719
+creator: Chris Jobling
 modified: 20180105155857612
+modifier: Chris Jobling
 tags: cpjobling.net Reference task nikola done
 title: Document workflow for Nikola
 type: text/vnd.tiddlywiki
@@ -55,16 +57,16 @@ nikola new_post -f markdown
 
 !! Version control
 
-Important: when you create a new Nikola site. Make sure you have a .gitignore file (my [[Nikola Gitignore File]])) added and committed before you start `nikola auto`. 
+Important: when you create a new Nikola site. Make sure you have a .gitignore file (my [[Nikola Gitignore File]])) added and committed before you start `nikola auto`.
 
-On //master// branch use the usual git commands to stage and commit changes. 
+On //master// branch use the usual git commands to stage and commit changes.
 
 !! Deployment
 
 When ready to deploy static website do:
 
 ```
-nikola github_deploy # copies static files to GH Pages 
+nikola github_deploy # copies static files to GH Pages
 ```
 Result will be found at [[cpjobling.github.io/dev.cpjobling.net|https://cpjobling.github.io/dev.cpjobling.net]].
 
