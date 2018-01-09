@@ -1,9 +1,16 @@
 created: 20180108011217178
-modified: 20180108011246457
-tags: task
+creator: Chris Jobling
+modified: 20180109184242431
+modifier: Chris Jobling
+
+tags: [[Google Groups]] Questions task done
 title: Fix broken images
 type: text/vnd.tiddlywiki
 
 Images are not being properly processed during static site generation. 
 
 Is this a bug with TiddlyWiki or an issue with the `tiddltwiki.info` file?
+
+! Answered on Google Groups
+
+[[Is there a bug in external image generation when using tiddlywiki render?|https://groups.google.com/d/msg/tiddlywiki/nFnJy2sxg8g/Ujejn3pfAAAJ]]
