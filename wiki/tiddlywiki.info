@@ -16,7 +16,7 @@
       ],
     "build": {
         "index": [
-            "--rendertiddler","$:/core/save/all","index.html","text/plain"
+            "--rendertiddler","[![is.draft]tag[private]]","$:/core/save/all","index.html","text/plain"
         ],
         "favicon": [
           "--savetiddler","$:/favicon.ico","favicon.ico"
@@ -26,13 +26,13 @@
             "--rendertiddler","License","license.md","text/html"
         ],
         "externalimages": [
-            "--savetiddlers","[is[image]]","images",
-            "--setfield","[is[image]]","_canonical_uri","$:/core/templates/canonical-uri-external-image","text/plain",
+            "--savetiddlers","[![is.draft]is[image]]","images",
+            "--setfield","[![is.draft]is[image]]","_canonical_uri","$:/core/templates/canonical-uri-external-image","text/plain",
             "--rendertiddler","$:/core/save/all","externalimages.html","text/plain"
         ],
         "static": [
-            "--rendertiddler","$:/core/templates/static.template.html","static.html","text/plain",
-            "--rendertiddler","$:/core/templates/alltiddlers.template.html","alltiddlers.html","text/plain",
+            "--rendertiddler","[![is.draft]tag[private]]","$:/core/templates/static.template.html","static.html","text/plain",
+            "--rendertiddler","[![is.draft]tag[private]]","$:/core/templates/alltiddlers.template.html","alltiddlers.html","text/plain",
             "--rendertiddlers","[!is[system]]","$:/core/templates/static.tiddler.html","static","text/plain",
             "--rendertiddler","$:/core/templates/static.template.css","static/static.css","text/plain"
         ]
