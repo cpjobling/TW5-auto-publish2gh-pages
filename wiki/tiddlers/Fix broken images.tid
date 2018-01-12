@@ -1,14 +1,10 @@
-created: 20180112165242804
-creator: Chris Jobling
-
-modified: 20180112165406482
-modifier: Chris Jobling
-
-tags: [[Google Groups]] Questions
+created: 20180112183530571
+modified: 20180112183612019
+tags: Questions [[Google Groups]]
 title: Fix broken images
 type: text/vnd.tiddlywiki
 
-Images are not being properly processed during static site generation. 
+Images were not being properly processed during static site generation. 
 
 Is this a bug with TiddlyWiki or an issue with the `tiddltwiki.info` file?
 

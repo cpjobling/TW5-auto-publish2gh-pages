@@ -3,7 +3,7 @@ core-version: >=5.1.3
 created: 20141103185750273
 dependents: 
 description: calendar with date formatter addons
-modified: 20180105141235242
+modified: 20180112181241759
 plugin-type: plugin
 source: https://github.com/buggyj/TW5-Calendar
 tags: tabcal
