@@ -1,5 +1,5 @@
 created: 20180114120325914
-modified: 20180114121236119
+modified: 20180115140901200
 tags: [[Google Groups]]
 title: Had to rebuild wiki after an error
 type: text/vnd.tiddlywiki
@@ -100,3 +100,22 @@ Jeremy
 I sent Jermy the Git commit that first seemed to have this odd behaviour:
 
 [[Update 10th January 2018|https://github.com/cpjobling/journal.cpjobling.net/commit/d9ca5042ddb4a6c916393a45286f54ff656523ac]]
+
+<<<
+Hi Jeremy
+
+I think I replied privately and as I can't see my reply, I am assuming it didn't work!
+
+My wiki is under version control and the commit at which it started to fail was this one: https://github.com/cpjobling/journal.cpjobling.net/commit/d9ca5042ddb4a6c916393a45286f54ff656523ac.
+
+You can easily spot the problem tiddlers by looking at More> All.
+
+There are a number of attempts to correct this between the 10th January commit and the version where I rebuilt the wiki which was https://github.com/cpjobling/journal.cpjobling.net/commit/8af7a86613f16eb75a8a6029296209957be71af5.
+
+My strategy was to copy the content of the tiddlers that had become file links into new tiddlers, delete the file tiddler, save the recovered tiddly. The tiddlywiki --server log implied that the right file was saved, but when the server was restarted, it would have become an external file again.
+
+If I didn't delete the file, before saving the recovered tiddler, the recovered tiddler would get saved as "Tiddler Name 1.tld"
+
+Chris
+
+<<<
