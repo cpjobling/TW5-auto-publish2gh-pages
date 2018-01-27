@@ -1,0 +1,24 @@
+created: 20180124092038044
+modified: 20180124094838248
+tags: eg-247
+title: Make a EG-247 Environment
+type: text/vnd.tiddlywiki
+
+Create, activate, export and deactivate an environment in Anaconda [1].
+
+```
+$ conda create --name eg-247
+$ source activate eg-247
+(eg-247) $ conda env export
+name: eg-247
+channels:
+- defaults
+prefix: /Users/eechris/anaconda3/envs/eg-247
+(eg-247) $ source deactivate
+$ 
+```
+[[Install RISE]]
+
+! References
+
+[1] [[Managing environments|https://conda.io/docs/user-guide/tasks/manage-environments.html]], Anaconda documentation. 
