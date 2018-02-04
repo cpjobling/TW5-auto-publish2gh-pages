@@ -1,6 +1,6 @@
 created: 20171221193040076
 creator: Chris Jobling
-modified: 20180124094801450
+modified: 20180204161924746
 modifier: Chris Jobling
 tags: Teaching
 title: EG-247 Signals and Systems
@@ -8,3 +8,7 @@ type: text/vnd.tiddlywiki
 
 ! Precourse
 * [[Make a EG-247 Environment]]
+
+! Preparation
+
+* [[Prepare Week 3]]
