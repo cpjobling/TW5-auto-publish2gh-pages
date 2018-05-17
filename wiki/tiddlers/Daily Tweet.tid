@@ -1,0 +1,8 @@
+created: 20180516095421310
+modified: 20180517184744182
+tags: 
+title: Daily Tweet
+type: text/vnd.tiddlywiki
+
+<$twitter type="tweet" tweetID="" />
+<$twitter type="tweet" tweetID="" />
