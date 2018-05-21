@@ -5,6 +5,7 @@
         "tiddlywiki/filesystem",
         "tiddlywiki/highlight",
         "tiddlywiki/codemirror"
+        "tiddlywiki/markdown"
     ],
     "username": "Chris Jobling",
     "themes": [

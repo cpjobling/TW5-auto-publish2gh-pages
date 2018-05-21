@@ -1,7 +1,9 @@
 created: 20180516095421310
-modified: 20180518073414465
+draft.of: Daily Tweet
+draft.title: Daily Tweet
+modified: 20180521070052139
 tags: 
-title: Daily Tweet
+title: Draft of 'Daily Tweet'
 type: text/vnd.tiddlywiki
 
 <$twitter type="tweet" tweetID="" />
