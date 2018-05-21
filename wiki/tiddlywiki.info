@@ -4,7 +4,7 @@
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
         "tiddlywiki/highlight",
-        "tiddlywiki/codemirror"
+        "tiddlywiki/codemirror",
         "tiddlywiki/markdown"
     ],
     "username": "Chris Jobling",
