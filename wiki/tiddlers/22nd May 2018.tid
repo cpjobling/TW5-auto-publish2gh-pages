@@ -1,0 +1,33 @@
+created: 20180522083847302
+modified: 20180524075659662
+tags: Journal
+title: 22nd May 2018
+type: text/vnd.tiddlywiki
+
+! My Tweets
+
+<$twitter type="tweet" tweetID="998823273940045824" />
+<$twitter type="tweet" tweetID="998823265341771776" />
+
+! Did
+
+* EG-252 Website Assessment
+
+! Heard
+
+About
+
+* [[lit-HTML|https://stackblitz.com]] on the [[WebPlatform Podcast]] [[Episode 159|https://github.com/Polymer/lit-html]]
+
+and listened to [[Dr Sue Black|https://www.bbc.co.uk/programmes/b0b3b4m5]] on [[Desert Island Disks|https://www.bbc.co.uk/programmes/b006qnmr]]
+
+! Watched
+
+* [[What can Kotlin do for you?|https://youtu.be/YbF8Q8LxAJs]]
+* [[How to Kotlin|https://youtu.be/6P20npkvcb8]] - from the Lead Kotlin Language Designer (Google I/O '18)
+* [[Flutter & Web - Unite your code and your teams|https://youtu.be/GpLb2XvKv20]] (DartConf 2018)
+* [[Evolving Dart: Leaving the ocean and learning to fly|https://youtu.be/9FA3brRCz2Q]] (DartConf 2018)
+
+! Today I Learned
+
+About [[Kotlin|https://kotlinlang.org/]] and [[Dart|https://www.dartlang.org/]].
