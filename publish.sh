@@ -2,6 +2,7 @@
 
 # go to the output directory and create a new git repo
 cd ./*wiki/output || exit 1 # abort script if folder does not exists
+rm '$:/plugins/tiddlywiki/tiddlyweb'
 # Add CNAME record needed for custom domain on GH-Pages
 cp ../../CNAME .
 git init
