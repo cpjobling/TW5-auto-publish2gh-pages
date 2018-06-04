@@ -1,0 +1,10 @@
+created: 20180516095421310
+draft.of: Daily Tweet
+draft.title: Daily Tweet
+modified: 20180604070944245
+tags: 
+title: Draft of 'Daily Tweet'
+type: text/vnd.tiddlywiki
+
+<$twitter type="tweet" tweetID="" />
+<$twitter type="tweet" tweetID="" />
