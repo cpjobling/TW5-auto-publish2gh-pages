@@ -1,0 +1,31 @@
+created: 20180619064805078
+creator: ChrisJobling
+modified: 20180619201412342
+modifier: Chris Jobling
+tags: Journal
+title: 19th June 2018
+type: text/vnd.tiddlywiki
+
+! My Tweets
+
+<$twitter type="tweet" tweetID="1008970067193843712" />
+<$twitter type="tweet" tweetID="1008970024642600961" />
+
+! World Cup 2018
+
+!! Group H
+
+Columbia 1 v 2 Japan ([[BBC Match Report|https://www.bbc.co.uk/sport/football/44439048]])
+
+Poland 1 v 2 Senegal ([[BBC Match Report|https://www.bbc.co.uk/sport/football/44439055]])
+
+!! Group A (Round 2)
+
+Russia 3 v 1 Egypt ([[BBC Match Report|https://www.bbc.co.uk/sport/football/44439062]])
+
+! Did
+
+* Finalised and posted a letter to IET
+* Preliminary marks for EG-M42
+* Installed [[Expo XDE|https://docs.expo.io/versions/latest/]] and tested a [[React Native App]] on iOS
+
