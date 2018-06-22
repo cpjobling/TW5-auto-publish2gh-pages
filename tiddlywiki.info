@@ -1,6 +1,7 @@
 {
-    "description": "Empty edition",
+    "description": "Crispy edition",
     "plugins": [
+        "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
         "tiddlywiki/highlight",
         "tiddlywiki/codemirror",
