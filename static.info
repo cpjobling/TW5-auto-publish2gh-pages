@@ -2,7 +2,6 @@
     "description": "Empty edition",
     "plugins": [
         "tiddlywiki/filesystem",
-        "tiddlywiki/tiddlyweb",
         "tiddlywiki/highlight",
         "tiddlywiki/codemirror",
         "tiddlywiki/markdown"
@@ -27,9 +26,10 @@
 			"--rendertiddler","License","license.md","text/html"
         ],
         "externalimages": [
-            "--savetiddlers","[![is.draft]is[image]]","images",
-            "--setfield","[![is.draft]is[image]]","_canonical_uri","$:/core/templates/canonical-uri-external-image","text/plain",
-            "--rendertiddler","$:/core/save/all","externalimages.html","text/plain"
+			"--savetiddlers","[is[image]]","images",
+			"--setfield","[is[image]]","_canonical_uri","$:/core/templates/canonical-uri-external-image","text/plain",
+			"--setfield","[is[image]]","text","","text/plain",
+			"--rendertiddler","$:/core/save/all","externalimages.html","text/plain"
         ],
         "static": [
             "--rendertiddler","$:/core/templates/static.template.html","static.html","text/plain",
