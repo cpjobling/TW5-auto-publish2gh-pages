@@ -17,11 +17,14 @@
       ],
     "build": {
         "index": [
-            "--rendertiddler","$:/core/save/all","index.html","text/plain"
-        ],
-        "readme": [
-            "--rendertiddler","ReadMe","readme.md","text/html",
-            "--rendertiddler","License","license.md","text/html"
+			"--rendertiddler","$:/core/save/all","index.html","text/plain"
+            ],
+		"favicon": [
+			"--savetiddler","$:/favicon.ico","favicon.ico"
+            ],
+		"readme": [
+			"--rendertiddler","ReadMe","readme.md","text/html",
+			"--rendertiddler","License","license.md","text/html"
         ],
         "externalimages": [
             "--savetiddlers","[![is.draft]is[image]]","images",
@@ -29,10 +32,10 @@
             "--rendertiddler","$:/core/save/all","externalimages.html","text/plain"
         ],
         "static": [
-            "--rendertiddler","[![is.draft]tag[private]]","$:/core/templates/static.template.html","static.html","text/plain",
-            "--rendertiddler","[![is.draft]tag[private]]","$:/core/templates/alltiddlers.template.html","alltiddlers.html","text/plain",
+            "--rendertiddler","$:/core/templates/static.template.html","static.html","text/plain",
             "--rendertiddlers","[!is[system]]","$:/core/templates/static.tiddler.html","static","text/plain",
-            "--rendertiddler","$:/core/templates/static.template.css","static/static.css","text/plain"
+            "--rendertiddler","$:/core/templates/static.template.css","static/static.css","text/plain",
+            "--rendertiddler","$:/core/templates/alltiddlers.template.html","alltiddlers.html","text/plain"
         ]
     }
 }

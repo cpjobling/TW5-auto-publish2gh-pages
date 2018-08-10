@@ -1,5 +1,5 @@
 created: 20180810062349139
-modified: 20180810090615280
+modified: 20180810143202455
 tags: Journal
 title: 10th August 2018
 type: text/vnd.tiddlywiki
@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 ! My Tweets
 
 <$twitter type="tweet" tweetID="1027814078364962816" />
-<$twitter type="tweet" tweetID="1027814078364962816" />
+<$twitter type="tweet" tweetID="1027814090314526720" />
 
 
 ! Did
@@ -18,4 +18,9 @@ type: text/vnd.tiddlywiki
 
 ! Watched
 
+! Today I asked
+
+* How to [[Upgrade Server-Based Tiddly Wiki]]
+
 ! Today I Learned
+
