@@ -1,5 +1,5 @@
 created: 20180810121805538
-modified: 20180815145435262
+modified: 20180815151634404
 tags: Questions
 title: Upgrade Server-Based Tiddly Wiki
 type: text/vnd.tiddlywiki
@@ -26,4 +26,18 @@ I saved the result as //upgrade.html//.
 My question is, how do I export the tiddlers from //upgrade.html// back into my server-based wiki?
 
 Chris
+<<<
+
+In the end this is the process I used
+
+<<<
+* Created a backup of my older server wiki
+* I created a new empty server-based wiki using `tiddlywiki --init`
+* Started the server and opened the blank wiki in a browser
+* Installed the non-standard plugins I had in my original wiki
+* Created a single file wiki from my existing wiki using `tiddlywiki --rendertiddler $:/core/save/all index.html text/plain`
+* Dragged the index.html file onto the new empty wiki and imported the tiddlers.
+* Replaced the contents of the old tiddlers folder with the contents of the new tiddlers folder
+
+Looks to be ok now.
 <<<
