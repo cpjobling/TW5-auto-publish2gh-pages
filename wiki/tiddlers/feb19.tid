@@ -1,0 +1,25 @@
+caption: February
+created: 20180522235724905
+modified: 20180815145104875
+tags: tabcal19
+title: feb19
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#feb19">[img class="goright" height="570" [Bluebonnet-8100-David-R-Tribble-cc-by-sa.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2019" "2" "">>
+
+
+"""
+&nbsp;&nbsp;5 - Chinese New Year ^^China^^
+&nbsp;&nbsp;5 - Constitution Day ^^Mexico^^
+&nbsp;&nbsp;5 - Vietnamese New Year ^^Vietnam^^
+&nbsp;&nbsp;6 - Tet holiday (first day) ^^Vietnam^^
+&nbsp;&nbsp;6 - Waitangi Day ^^New Zealand^^
+&nbsp;&nbsp;9 - Tet holiday (last day) ^^Vietnam^^
+11 - National Foundation Day ^^Japan^^
+14 - Valentine's Day
+23 - Defender of the Fatherland Day ^^Russia^^
+"""
+[img height="150" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

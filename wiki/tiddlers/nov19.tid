@@ -1,0 +1,28 @@
+caption: November
+created: 20180522235205613
+modified: 20180815145104826
+tags: tabcal19
+title: nov19
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#nov19">[img class="goright" height="570" [Bluebonnet-8100-David-R-Tribble-cc-by-sa.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2019" "11" "">>
+
+"""
+&nbsp;&nbsp;4 - Unity Day ^^Russia^^
+&nbsp;&nbsp;5 - Guy Fawkes Day ^^New Zealand,^^ ^^United Kingdom^^
+10 - The Prophet's Birthday
+11 - Armistice Day ^^France^^
+11 - Remembrance Day ^^Australia,^^ ^^Canada,^^
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^^United Kingdom^^
+11 - Veterans Day ^^United States^^
+16 - Republic Proclamation Day ^^Brazil^^
+17 - National Day of Mourning ^^Germany^^
+20 - Revolution Day Memorial ^^Mexico^^
+23 - Labor Thanksgiving Day ^^Japan^^
+28 - Thanksgiving Day ^^United States^^
+"""
+
+[img height="70" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

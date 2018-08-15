@@ -4,7 +4,7 @@ created: 20180103172838102
 dependents: 
 description: Twitter for TiddlyWiki
 list: readme usage
-modified: 20180112181241793
+modified: 20180815145433420
 plugin-type: plugin
 title: $:/plugins/tiddlywiki/twitter
 type: application/json

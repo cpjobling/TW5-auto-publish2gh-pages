@@ -1,0 +1,25 @@
+caption: June
+created: 20180522235526342
+modified: 20180815145104853
+tags: tabcal19
+title: jun19
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#jun19">[img class="goright" height="570" [Bluebonnet-8100-David-R-Tribble-cc-by-sa.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2019" "6" "">>
+
+"""
+&nbsp;&nbsp;3 - Queen's Birthday ^^New Zealand^^
+&nbsp;&nbsp;5 - Eid al-Fitr (Ramadan ends)
+&nbsp;&nbsp;7 - Dragon Boat Festival ^^China^^
+&nbsp;&nbsp;8 - Queen's Birthday ^^United Kingdom^^
+12 - Valentine's Day ^^Brazil^^
+12 - Russia Day ^^Russia^^
+16 - Father's Day
+18 - Baek Bo Ram
+29 - Park So Ra
+"""
+
+[img height="110" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

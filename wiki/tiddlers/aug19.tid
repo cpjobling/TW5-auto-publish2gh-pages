@@ -1,0 +1,21 @@
+caption: August
+created: 20180522235913406
+modified: 20180815145104894
+tags: tabcal19
+title: aug19
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#aug19">[img class="goright" height="570" [Bluebonnet-8100-David-R-Tribble-cc-by-sa.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2019" "8" "">>
+
+"""
+12 - Eid al-Adha
+12 - Father's Day ^^Brazil^^
+15 - Independence Day ^^India^^
+15 - Liberation Day ^^South Korea^^
+28 - Lee Jin Hee
+"""
+
+[img height="220" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

@@ -1,0 +1,23 @@
+caption: 2020
+created: 20180522235237781
+modified: 20180815145104818
+tags: tabcal19
+title: nxt19
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#nxt19">[img class="goright" height="570" [Bluebonnet-8100-David-R-Tribble-cc-by-sa.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+<<diary "2020" "1" "">>
+<<diary "2020" "2" "">>
+<<diary "2020" "3" "">>
+
+<!--
+[img height="10" [$:/images/shim.gif]] --><!-- fill rest of tiddler to match picture height
+-->
+
+<!--
+
+or for whole year, without picture use only:
+<<diary "2020" "" "">>
+
+-->

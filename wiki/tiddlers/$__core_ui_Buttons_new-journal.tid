@@ -2,7 +2,7 @@ caption: {{$:/core/images/new-journal-button}} {{$:/language/Buttons/NewJournal/
 created: 20180407105058500
 creator: ChrisJobling
 description: {{$:/language/Buttons/NewJournal/Hint}}
-modified: 20180407105059636
+modified: 20180815145433427
 modifier: ChrisJobling
 tags: $:/tags/PageControls
 title: $:/core/ui/Buttons/new-journal
