@@ -1,6 +1,6 @@
 created: 20180112183507113
-modified: 20180815145433431
+modified: 20180817101550678
 title: $:/config/RelinkOnRename
 type: text/vnd.tiddlywiki
 
-yes
+no
