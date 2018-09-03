@@ -1,0 +1,34 @@
+created: 20180903131659845
+modified: 20180903132530102
+tags: Journal
+title: 3rd September 2018
+type: text/vnd.tiddlywiki
+
+! My Tweets
+
+<$twitter type="tweet" tweetID="1036511425517289472" />
+<$twitter type="tweet" tweetID="1036511409201455104" />
+
+! Did
+
+* College of Engineering Supplementary Exam Board
+
+! Read
+
+<$twitter type="tweet" tweetID="1036522997094473728" />
+
+! Watched
+
+* [[JupyterCon 2018]]
+
+!! Goto 2018 
+
+* Computer Science - A Guide for the Perplexed • Joe Armstrong
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rmueBVrLKcY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+* Joe Armstrong interviews Alan Kay
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fhOHn9TClXY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+! Today I Learned
