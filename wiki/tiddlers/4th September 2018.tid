@@ -1,0 +1,26 @@
+created: 20180904094931152
+modified: 20180906084948190
+tags: Journal
+title: 4th September 2018
+type: text/vnd.tiddlywiki
+
+! My Tweets
+
+<$twitter type="tweet" tweetID="1036873904919334913" />
+<$twitter type="tweet" tweetID="1036873854260527104" />
+
+! Did
+
+* Installed [[Julia Language]]
+* Played with Julia in [[juliabox.com|https://juliabox.com]]
+
+! Read
+
+<$twitter type="tweet" tweetID="1037009997094445059" />
+
+<$twitter type="tweet" tweetID="1037229404764684289" />
+
+
+! Watched
+
+* [[Julia Language Tutorials]]

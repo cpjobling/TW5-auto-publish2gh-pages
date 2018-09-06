@@ -1,5 +1,5 @@
 created: 20180903131659845
-modified: 20180903132530102
+modified: 20180903163242781
 tags: Journal
 title: 3rd September 2018
 type: text/vnd.tiddlywiki
@@ -18,6 +18,11 @@ type: text/vnd.tiddlywiki
 <$twitter type="tweet" tweetID="1036522997094473728" />
 
 ! Watched
+
+!! Julia 1.0 release (Juliacon 2018 reception founders talk)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1jN5wKvN-Uk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 * [[JupyterCon 2018]]
 
