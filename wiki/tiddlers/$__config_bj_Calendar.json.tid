@@ -1,5 +1,5 @@
 created: 20180606153203829
-modified: 20180815145104924
+modified: 20180924074844029
 module-type: library
 tags: bjcalendar
 title: $:/config/bj/Calendar.json
@@ -7,28 +7,28 @@ type: application/json
 
 {
 	"journals":{
-		"lastDayOfWeek":"6",
+		"lastDayOfWeek":"7",
 		"formatter":"$:/macros/bj/Calendar/journalfmt.js",
 		"titlebold":"no",
 		"highlightThisDay":"no",
 		"highlightThisDate":"yes"
 	},
 	"default":{
-		"lastDayOfWeek":"6",
+		"lastDayOfWeek":"7",
 		"formatter":"$:/macros/bj/Calendar/journalslinked.js",
 		"titlebold":"yes",
 		"highlightThisDay":"no",
 		"highlightLinks":"yes"
 	},
 	"diary":{
-		"lastDayOfWeek":"6",
+		"lastDayOfWeek":"7",
 		"formatter":"$:/macros/bj/Calendar/diary.js",
 		"titlebold":"yes",
 		"highlightThisDay":"no",
 		"highlightLinks":"yes"
 	},
 	"plain":{
-		"lastDayOfWeek":"6",
+		"lastDayOfWeek":"7",
 		"formatter":"",
 		"titlebold":"yes",
 		"highlightThisDay":"yes",
