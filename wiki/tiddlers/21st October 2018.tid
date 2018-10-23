@@ -1,5 +1,5 @@
 created: 20181021144503555
-modified: 20181021153337728
+modified: 20181022071603354
 tags: Journal
 title: 21st October 2018
 type: text/vnd.tiddlywiki
@@ -12,6 +12,7 @@ type: text/vnd.tiddlywiki
 ! Made
 
 * [[TAGSExplorer|https://hawksey.info/tagsexplorer/?key=1r3Vo3LW0XKwvL726XUMeUvKLXqgVbJL6RlDcA9vpBPo&gid=400689247]] for [[#PeoplesVoteMarch|https://twitter.com/hashtag/PeoplesVoteMarch]] ([[Data|https://docs.google.com/spreadsheets/d/1r3Vo3LW0XKwvL726XUMeUvKLXqgVbJL6RlDcA9vpBPo/edit#gid=8743918]])
+<$twitter type="tweet" tweetID="1054038462389739522" />
 
 ! Read
 
@@ -24,6 +25,9 @@ type: text/vnd.tiddlywiki
 <$twitter type="tweet" tweetID="1053730076863483905" />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0YEPy7HRf60" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+!! What's new in Microsoft Teams the hub for teamwork
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w5DySwFP4Gw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ! Today I Learned
 
-Something about the architecture of OneDrive, Teams and Sharepoint
+Something about the architecture of OneDrive, Teams and Sharepoint and what's coming up in Teams.
