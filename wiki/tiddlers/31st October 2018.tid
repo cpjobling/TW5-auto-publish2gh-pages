@@ -1,5 +1,5 @@
 created: 20181031085608846
-modified: 20181031090104764
+modified: 20181031174851698
 tags: Journal
 title: 31st October 2018
 type: text/vnd.tiddlywiki
@@ -24,6 +24,17 @@ It's [[Hallowe'en|https://en.wikipedia.org/wiki/Halloween]]
 
 <$twitter type="tweet" tweetID="1057541710048362496" />
 
+! Visited
+
+* [[e-Learning 3.0|https://el30.mooc.ca/]]
+
 ! Watched
 
+<$twitter type="tweet" tweetID="1057662448927432704" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mjGyVXI2zFA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+and explored @[[psychemedia|https://twitter.com/psychemedia]]'s   Show 'n' Tell collections of Jupyter Notebooks used as Part of Rich Educational Media Publishing System on [[GitHub|https://github.com/psychemedia/showntell]] and on [[Azure Notebooks|https://notebooks.azure.com/OUsefulInfo/libraries/gettingstarted]].
+
+
 ! Today I Learned
+
+That my University's internal FHEA application route depresses me and looking at this while my University's PDR review period is active makes my depression worse.
