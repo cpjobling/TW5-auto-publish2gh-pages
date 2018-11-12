@@ -1,0 +1,9 @@
+created: 20181112192851235
+modified: 20181112193552977
+tags: jupyter oer [[text books]]
+title: Jupyter Textbook
+type: text/vnd.tiddlywiki
+
+Master repo: [[github.com/choldgraf/jupyter-book|https://github.com/choldgraf/jupyter-book]].
+
+Exemplar: [[data-8/textbook|https://github.com/data-8/textbook]] rendered as [[www.inferentialthinking.com|https://www.inferentialthinking.com]].
