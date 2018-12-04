@@ -1,0 +1,28 @@
+caption: April
+created: 20181204090202201
+modified: 20181204090229327
+tags: tabcal20
+title: apr20
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#apr20">[img class="goright" height="570" [Bluebonnet-8100-David-R-Tribble-cc-by-sa.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2020" "4" "">>
+
+"""
+&nbsp;&nbsp;2 - Kim Min Young
+&nbsp;&nbsp;5 - Qing Ming Jie ^^China^^
+14 - Vietnamese Kings' Commemoration Day ^^Vietnam^^
+20 - Pesach I (First day of Passover)
+21 - Easter Sunday
+21 - Tiradentes Day ^^Brazil^^
+22 - Easter Monday
+25 - ANZAC Day ^^Australia,^^ ^^New Zealand^^
+25 - Liberation Day ^^Italy^^
+26 - Pesach VII (Last day of Passover)
+27 - King's Birthday ^^Netherlands^^
+30 - Liberation Day / Reunification Day ^^Vietnam^^
+"""
+
+[img height="70" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->
