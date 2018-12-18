@@ -1,5 +1,5 @@
 created: 20181217090506476
-modified: 20181217090623911
+modified: 20181218093949346
 tags: Journal
 title: 17th December 2018
 type: text/vnd.tiddlywiki
@@ -11,8 +11,8 @@ type: text/vnd.tiddlywiki
 
 ! Did
 
+* Bought a new NAS and printer ink
+
 ! Read
 
-! Watched
-
-! Today I Learned
+* [[Rsync|https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/]]
