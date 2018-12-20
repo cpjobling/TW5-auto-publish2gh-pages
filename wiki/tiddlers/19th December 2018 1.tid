@@ -1,0 +1,34 @@
+created: 20181219095518524
+modified: 20181220032321533
+tags: Journal
+title: 19th December 2018
+type: text/vnd.tiddlywiki
+
+! My Tweets
+
+<$twitter type="tweet" tweetID="1075304121635348481" />
+<$twitter type="tweet" tweetID="1075304118162472960" />
+
+! Did
+
+* Online checkin (fail)
+* Joined the [[Jupyter discourse|https://discourse.jupyter.org/]] site
+* Travelled to Gatwick - Hotel BLOC 
+
+! Read
+
+<$twitter type="tweet" tweetID="1075095353421152257" />
+<$twitter type="tweet" tweetID="1075182354182868992" />
+<$twitter type="tweet" tweetID="1074963774149398529" />
+
+* [[Tracking Jupyter: Newsletter, the Fifth...|https://tinyletter.com/TrackingJupyter/letters/tracking-jupyter-newsletter-the-fifth]]
+
+! Watched
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uv1UfLPK7_Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+! Today I Learned
+
+* A bit about [[GitBook|https://www.gitbook.com/about]]
+* A new Jupyter e-book [[Teaching and Learning with Jupyter|https://jupyter4edu.github.io/jupyter-edu-book/]]
+
