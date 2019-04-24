@@ -1,13 +1,13 @@
 created: 20190408064733361
-modified: 20190408070301020
+modified: 20190408071648954
 tags: Journal
 title: 8th April 2019
 type: text/vnd.tiddlywiki
 
 ! My Tweets
 
-<$twitter type="tweet" tweetID="" />
-<$twitter type="tweet" tweetID="" />
+<$twitter type="tweet" tweetID="1115148107958902784" />
+<$twitter type="tweet" tweetID="1115148104758697984" />
 
 ! Agenda
 
