@@ -1,5 +1,5 @@
 created: 20190430074206630
-modified: 20190430074307470
+modified: 20190501093304485
 tags: Journal
 title: 30th April 2019
 type: text/vnd.tiddlywiki
@@ -11,8 +11,24 @@ type: text/vnd.tiddlywiki
 
 ! Did
 
+* Made Moment for [[29th April 2019]] talk.
+<$twitter type="tweet" tweetID="1123129796001710080" />
+
+* Collaborative Partnership Board
+* Installed ~PyCharm and started ~LinkedIn course [[Learning Python with PyCharm]]
+
 ! Read
+
+* [[Introducing Jupytext|https://towardsdatascience.com/introducing-jupytext-9234fdff6c57]]
+
+
 
 ! Watched
 
-! Today I Learned
+!! PyParis 2018 - Jupytext: Edit Jupyter notebooks represented as Python scripts
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y-VEZenk824" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+!! How to use Microsoft Teams, a demo tutorial (2019)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CH2seLS5Wb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
