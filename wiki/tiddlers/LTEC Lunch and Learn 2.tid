@@ -1,6 +1,6 @@
 created: 20190605162547664
-modified: 20190606082942005
-tags: 
+modified: 20190607071750495
+tags: ltec jupyter
 title: LTEC Lunch and Learn 2
 type: text/vnd.tiddlywiki
 
@@ -70,10 +70,22 @@ make serve
 
 Then visit: http://127.0.0.1:4000/jupyter-book/
 
+! Resources
+
+* [[Google Collaboratory|https://colab.research.google.com/notebooks/welcome.ipynb]]
+* [[Jupyter Textbook|https://jupyter.org/jupyter-book/intro]] (GitHub repo: [[jupyter/jupyter-book|https://github.com/jupyter/jupyter-book]])
+* [[Microsoft Azure Notebooks|https://notebooks.azure.com/#]]
+* [[Binder|https://mybinder.org]]
+
 ! References
+
+!! Tony Hirst Blog
+
+* [[More Than Ten Free Hosted Jupyter Notebook Environments You Can Try Right Now|https://blog.ouseful.info/2019/01/04/more-than-ten-free-hosted-jupyter-notebook-environments-you-can-try-right-now/]]
+* [[ posts tagged jupyter|https://blog.ouseful.info/tag/jupyter/]]
+
+!! Other references
 
 * https://jupyter4edu.github.io/jupyter-edu-book/
 * https://github.com/jupyter4edu/jupyter-edu-book
 * https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/
-* https://github.com/jupyter/jupyter-book
-* https://jupyter.org/jupyter-book/intro
