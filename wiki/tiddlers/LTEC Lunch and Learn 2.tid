@@ -1,16 +1,22 @@
 created: 20190605162547664
-modified: 20190611101809168
+modified: 20190611103250107
 tags: ltec jupyter
 title: LTEC Lunch and Learn 2
 type: text/vnd.tiddlywiki
 
-! Plan
+! Visit this page
 
-Start with [[Teaching and Learning with Jupyter|https://jupyter4edu.github.io/jupyter-edu-book/]] ([[repo|https://github.com/jupyter4edu/jupyter-edu-book]])
+''https://bit.ly/ltec-jupyter''
 
-Show Tony Hirst's collecion of example Jupyter notebooks [[OUseful Getting Started with Notebooks|https://notebooks.azure.com/OUsefulInfo/projects/gettingstarted]] hosted on the Azure notebook service.
+! Plan for Webinar
 
-Demonstrate from my [[clone|https://notebooks.azure.com/cpjobling/projects/gettingstarted]]: 
+!! Introducing Jupyter notebooks
+
+* Start with [[Teaching and Learning with Jupyter|https://jupyter4edu.github.io/jupyter-edu-book/]] ([[repo|https://github.com/jupyter4edu/jupyter-edu-book]])
+
+* Show Tony Hirst's collecion of example Jupyter notebooks [[OUseful Getting Started with Notebooks|https://notebooks.azure.com/OUsefulInfo/projects/gettingstarted]] hosted on the Azure notebook service.
+
+* Demonstrate from my [[clone|https://notebooks.azure.com/cpjobling/projects/gettingstarted]]: 
 
 # Introduce Jupyter Notebooks
 ## Simple charts
@@ -21,73 +27,27 @@ Demonstrate from my [[clone|https://notebooks.azure.com/cpjobling/projects/getti
 ## Python
 ## R - statistics
 ## Julia
-# In my Teaching
-## [[Transfer functions|https://cpjobling.github.io/eg-247-textbook/laplace_transform/4/transfer_functions]]
-## [[Control system design|https://cpjobling.github.io/eglm03-textbook/03/3/pplusd]]
-## [[Fourier Series|https://cpjobling.github.io/eg-247-textbook/fourier_series/2/exp_fs1]]
-## Notes
-## Jupyter Slide Shows
-## Interactive workbooks
-## Textbooks
+
+!! Jupyter in my Teaching
+
+With examples from  ''EG-247 Signals and Systems'' and ''EGLM03 Modern Control Systems'': [[Transfer functions|https://cpjobling.github.io/eg-247-textbook/laplace_transform/4/transfer_functions]],  [[Control system design|https://cpjobling.github.io/eglm03-textbook/03/3/pplusd]], [[Fourier Series|https://cpjobling.github.io/eg-247-textbook/fourier_series/2/exp_fs1]]
+
+# Notes
+# Slide Shows
+# MATLAB kernel
+# Interactive workbooks
+# Textbooks
+
+!! Towards a Jupyter-based L&T infractructure
+
 # [[JupyterHub|https://jupyter.org/hub]] and [[Binders|https://gke.mybinder.org/]]
 # [[NBGrader|https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/07/21/nbgrader-to-automate-assessment-and-grading-with-jupyterhub-on-azure-data-science-vm/]]
-# Jupyter in other Engineering fields
-## Chemical engineering
-## Electronics
-## Music
 
-! Build log
+!! Jupyter in other Engineering fields
 
-To install `jupyter-book==0.5.1.dev0` from github repo:
-
-```
-cd ~/dev
-git clone https://github.com/cpjobling/jupyter-book.git
-cd jupyter-book
-git remote add upstream https://github.com/jupyter/jupyter-book
-```
-
-Set up the deveopment environment and tool chain [[ref|https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/]]
-
-```
-conda create -n ltec-lnl2 python=3.6 anaconda
-conda activate ltec-lnl2
-python setup.py install
-```
-[Need to document how to do the last step with `pip`]
-
-With current version, I needed to manually copy `jupyter_book/scripts/generate_toc.py` to installed version.
-
-I also had to install `jupyter_contrib_nbextensions`:
-
-```
-conda install -c conda-forge jupyter_contrib_nbextensions
-```
-
-Build a demo book
-
-```
-cd ..
-jupyter-book create using-jupyter --demo
-jupyter-book toc using-jupyter # failed
-jupyter-book build using-jupyter # failed
-cd using-jupyter
-```
-
-To run the server, we need to install Ruby.
-
-```
-conda install ruby
-```
-
-and manually add the `rb-readline` gem to the `Gemfile`.
-
-```
-bundle install
-make serve
-```
-
-Then visit: http://127.0.0.1:4000/jupyter-book/
+# Chemical engineering
+# Electronics
+# Music
 
 ! Resources
 
@@ -97,6 +57,8 @@ Then visit: http://127.0.0.1:4000/jupyter-book/
 * [[Binder|https://mybinder.org]]
 
 ! References
+
+!! [[Teaching and Learning with Jupyter|https://jupyter4edu.github.io/jupyter-edu-book/]]
 
 !! Tony Hirst Blog
 
@@ -109,4 +71,4 @@ Then visit: http://127.0.0.1:4000/jupyter-book/
 
 !! Other references
 
-* 
+* [[Building a Jupyter Platform for Course Delivery]]
