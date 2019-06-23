@@ -1,5 +1,5 @@
 created: 20190611103012846
-modified: 20190611103026034
+modified: 20190617130852009
 tags: jupyter
 title: Building a Jupyter Platform for Course Delivery
 type: text/vnd.tiddlywiki
@@ -15,7 +15,7 @@ cd jupyter-book
 git remote add upstream https://github.com/jupyter/jupyter-book
 ```
 
-Set up the deveopment environment and tool chain [[ref|https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/]]
+Set up the development environment and tool chain [[ref|https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/]]
 
 ```
 conda create -n ltec-lnl2 python=3.6 anaconda
