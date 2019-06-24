@@ -1,2 +1,5 @@
 .flickrExclusion
 wiki/output
+node_modules
+.vscode
+

@@ -1,5 +1,5 @@
 {
-    "description": "Empty edition",
+    "description": "My Journal",
     "plugins": [
         "tiddlywiki/filesystem",
         "tiddlywiki/tiddlyweb",
