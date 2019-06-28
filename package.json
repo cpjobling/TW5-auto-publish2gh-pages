@@ -1,6 +1,6 @@
 {
     "name": "journal.cpjobling.net",
-    "description": "My journal",
+    "description": "My TiddlyWiki journal",
     "dependencies": {
         "sax": "1.2.4",
         "tiddlywiki": "*"
