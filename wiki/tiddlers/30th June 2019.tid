@@ -1,25 +1,20 @@
 created: 20190630203623725
-modified: 20190630203814560
+modified: 20190701172955080
 tags: Journal
 title: 30th June 2019
 type: text/vnd.tiddlywiki
 
 ! My Tweets
 
-<$twitter type="tweet" tweetID="tweetid" />
-<$twitter type="tweet" tweetID="tweetid" />
+<$twitter type="tweet" tweetID="1145589013610401792" />
+<$twitter type="tweet" tweetID="1145589013610401792" />
 
 ! At Gregynog
 
 * Walk to Tregynon
+* Lunch
 * Sleep
 * Tea and Cake
 * Beer tasting
 * Talk to Farzin
 * Salmon dinner
-
-! Read
-
-! Watched
-
-! Today I Learned
