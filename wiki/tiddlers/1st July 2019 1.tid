@@ -1,0 +1,26 @@
+created: 20190702074018724
+modified: 20190702075012426
+tags: Journal 2019
+title: 1st July 2019
+type: text/vnd.tiddlywiki
+
+! My Tweets
+
+<$twitter type="tweet" tweetID="1145589005599301632" />
+<$twitter type="tweet" tweetID="1145589005599301632" />
+
+! Did
+
+* Travel back from Gregynog
+* Signed off a number of project descriptors
+* Email
+
+! Read
+
+*[[Windows Terminal Microsoft Store Preview Release|https://devblogs.microsoft.com/commandline/windows-terminal-microsoft-store-preview-release/?WT.mc_id=twc9-c9-chwarren]]
+
+! Watched
+
+!! Windows Terminal: Building a better command line experience for developers - BRK3069
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KMudkRcwjCw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
