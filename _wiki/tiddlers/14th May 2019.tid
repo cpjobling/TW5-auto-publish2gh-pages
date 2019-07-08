@@ -1,0 +1,26 @@
+created: 20190514065420315
+modified: 20190516070200994
+tags: Journal
+title: 14th May 2019
+type: text/vnd.tiddlywiki
+
+! My Tweets
+
+<$twitter type="tweet" tweetID="1128194326205431810" />
+<$twitter type="tweet" tweetID="1128194323785371648" />
+<$twitter type="tweet" tweetID="1128210016895369216" />
+
+! Did
+
+!! Project Vivas
+
+| Tuesday | 14/05/2019	| SOM111 |
+
+| !Times	| !Student Number | !Supervisor Name | !Second Marker | !Portfolio	| !Title |
+| 13.00 | 690108 | ST | Me | EEE |Review of Visible-Light Communications architectures using smartphones: possible standards and new generation of smartphones |
+| 13.30 | 874404 | ST | Me | EEE |Fast modulation of LEDs for Visible-Light Communications |
+| 14.30  | 922910 | ST | Me | EEE |Development of fully automated 3-D scanner for Laser Beams |
+| 15:00 | 988239 | ST | Me | Other |Fast modulation of LEDs for Visible-Light Communications |
+| 15.30 | 881532 | Me | ST | EEE |Implementing a Jupyter Hub for Signals and Systems Teaching |
+| 16.00 | 908179 | Me | ST | EEE |TBA |
+| 16.30 | 834260 | Me |  ST | EEE |Machine learning for Efficient Undergraduate Project Allocation |

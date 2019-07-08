@@ -1,0 +1,74 @@
+created: 20190605162547664
+modified: 20190611103250107
+tags: ltec jupyter
+title: LTEC Lunch and Learn 2
+type: text/vnd.tiddlywiki
+
+! Visit this page
+
+''https://bit.ly/ltec-jupyter''
+
+! Plan for Webinar
+
+!! Introducing Jupyter notebooks
+
+* Start with [[Teaching and Learning with Jupyter|https://jupyter4edu.github.io/jupyter-edu-book/]] ([[repo|https://github.com/jupyter4edu/jupyter-edu-book]])
+
+* Show Tony Hirst's collecion of example Jupyter notebooks [[OUseful Getting Started with Notebooks|https://notebooks.azure.com/OUsefulInfo/projects/gettingstarted]] hosted on the Azure notebook service.
+
+* Demonstrate from my [[clone|https://notebooks.azure.com/cpjobling/projects/gettingstarted]]: 
+
+# Introduce Jupyter Notebooks
+## Simple charts
+## Widgets
+## Diagrams
+## LaTeX
+# For coding
+## Python
+## R - statistics
+## Julia
+
+!! Jupyter in my Teaching
+
+With examples from  ''EG-247 Signals and Systems'' and ''EGLM03 Modern Control Systems'': [[Transfer functions|https://cpjobling.github.io/eg-247-textbook/laplace_transform/4/transfer_functions]],  [[Control system design|https://cpjobling.github.io/eglm03-textbook/03/3/pplusd]], [[Fourier Series|https://cpjobling.github.io/eg-247-textbook/fourier_series/2/exp_fs1]]
+
+# Notes
+# Slide Shows
+# MATLAB kernel
+# Interactive workbooks
+# Textbooks
+
+!! Towards a Jupyter-based L&T infractructure
+
+# [[JupyterHub|https://jupyter.org/hub]] and [[Binders|https://gke.mybinder.org/]]
+# [[NBGrader|https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/07/21/nbgrader-to-automate-assessment-and-grading-with-jupyterhub-on-azure-data-science-vm/]]
+
+!! Jupyter in other Engineering fields
+
+# Chemical engineering
+# Electronics
+# Music
+
+! Resources
+
+* [[Google Collaboratory|https://colab.research.google.com/notebooks/welcome.ipynb]]
+* [[Jupyter Textbook|https://jupyter.org/jupyter-book/intro]] (GitHub repo: [[jupyter/jupyter-book|https://github.com/jupyter/jupyter-book]])
+* [[Microsoft Azure Notebooks|https://notebooks.azure.com/#]]
+* [[Binder|https://mybinder.org]]
+
+! References
+
+!! [[Teaching and Learning with Jupyter|https://jupyter4edu.github.io/jupyter-edu-book/]]
+
+!! Tony Hirst Blog
+
+* [[More Than Ten Free Hosted Jupyter Notebook Environments You Can Try Right Now|https://blog.ouseful.info/2019/01/04/more-than-ten-free-hosted-jupyter-notebook-environments-you-can-try-right-now/]]
+* [[ posts tagged jupyter|https://blog.ouseful.info/tag/jupyter/]]
+
+!! Tony Hirst's examples
+
+* [[Getting Started With Notebooks|https://notebooks.azure.com/OUsefulInfo/projects/gettingstarted]]
+
+!! Other references
+
+* [[Building a Jupyter Platform for Course Delivery]]

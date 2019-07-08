@@ -1,0 +1,50 @@
+created: 20190102082138256
+modified: 20190103081910040
+tags: Journal
+title: 2nd January 2019
+type: text/vnd.tiddlywiki
+
+! My Tweets
+
+<$twitter type="tweet" tweetID="1080377703193370625" />
+<$twitter type="tweet" tweetID="1080377694154567680" />
+<$twitter type="tweet" tweetID="1080590167906361344" />
+<$twitter type="tweet" tweetID="1080595291114479616" />
+
+! Did
+
+* Cleared my Christmas + New year inbox.
+
+! Read
+
+! Catch up with Martin Hawksey
+
+Homepage: [[Talks 2018|https://mashe.hawksey.info/2018/12/talks-in-2018/]]:
+
+* [[OER18: APIs … Opening for All: A beginners introduction to APIs using Google Sheets [Machina a machina]|https://mashe.hawksey.info/2018/04/oer18-apis-opening-for-all-a-beginners-introduction-to-apis-using-google-sheets-machina-a-machina/]] ([[OER18 Session|https://oer18.oerconf.org/sessions/apis-opening-for-all-a-beginners-introduction-to-apis-using-google-sheets-1895/]])
+* [[TEL Quality and Innovation: What can be learned from the history of computer science|https://mashe.hawksey.info/2018/05/tel-quality-and-innovation-what-can-be-learned-from-the-history-of-computer-science/]]
+* [[Twitter in Education: Interactively exploring the conversation with TAGS and TAGSExplorer|https://mashe.hawksey.info/2018/06/twitter-in-education-interactively-exploring-the-conversation-with-tags-and-tagsexplorer/]]
+* [[What about GDPR?|https://mashe.hawksey.info/2018/11/what-about-gdpr/]]
+
+! Watched
+
+!! Founder School Session: The Future Doesn't Have to Be Incremental -- Alan Kay
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gTAghAJcO1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+!! Bret Victor - The Future of Programming
+
+Brilliant presentation, made as if given in 1973, of the state-of-the-art as it should have been 40 year's later in 2013. The white shirt, tie, pocket protectors and use of view foils really added an air of authenticity.
+
+<iframe src="https://player.vimeo.com/video/71278954?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/71278954">Bret Victor - The Future of Programming</a> from <a href="https://vimeo.com/worrydream">Bret Victor</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+[[References|http://worrydream.com/dbx/]]
+
+!! Martin Hawksey -- Twitter in Education: Interactively exploring the conversation with TAGS and TAGSExplorer
+
+*  [[Recording|https://mmu.adobeconnect.com/_a1023480576/pzat9zadgetg/?proto=true]]
+
+! Today I Learned
+
+80% or humans will not adopt or agree on something, unless nearly all of the group adopt or agree on something and we haven't come as far in computing as we should have because we stopped investing in inventions and started valuing small incremental "innovations" more.

@@ -1,0 +1,29 @@
+created: 20160704122326493
+creator: Chris Jobling
+modified: 20181204091444889
+modifier: Chris Jobling
+tags: Welcome
+title: Welcome Visitors
+type: text/vnd.tiddlywiki
+
+You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes|$:/core/ui/SideBar/Recent]] here and nearby.
+
+Welcome to this TiddlyWiki site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.
+
+Pages about us.
+
+* [[Chris Jobling]]
+
+Pages where we do and share.
+
+* [[Crispy Journal|Journal 2018]]
+* [[Fresh and Crispy|https://blog.cpjobling.net]]
+* @[[cpjobling|https://twitter.com/cpjobling]] on Twitter
+
+
+! Licenses
+
+* The license for the [[TW5-auto-publish2gh-pages mechanism used|https://github.com/danielo515/TW5-auto-publish2gh-pages/blob/master/README.md]] for automated storage of this TiddlyWiki on [[GitHub pages]] is Copyright (c) 2014, Daniel Rodríguez Rivero and is covered by this [[License]].
+
+----
+<html><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</html>

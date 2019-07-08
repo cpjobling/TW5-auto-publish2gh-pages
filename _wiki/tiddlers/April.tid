@@ -1,0 +1,26 @@
+created: 20171117144415299
+modified: 20180815145433960
+tags: tabcal
+title: April
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#April">[img class="goright" height="570" [(by_Mars_2002).jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2018" "4" "">>
+
+"""
+&nbsp;&nbsp;1 - Easter Sunday
+&nbsp;&nbsp;2 - Easter Monday
+&nbsp;&nbsp;5 - Qing Ming Jie ^^China^^
+&nbsp;&nbsp;6 - Passover (last day)
+11 - Holocaust Memorial Day ^^Israel^^
+18 - Memorial Day ^^Israel^^
+19 - Independence Day ^^Israel^^
+21 - Tiradentes Day ^^Brazil^^
+25 - ANZAC Day  ^^Australia,^^ ^^New Zealand^^
+25 - Liberation Day ^^Italy^^
+27 - King's Birthday ^^Netherlands^^
+"""
+
+[img height="90" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

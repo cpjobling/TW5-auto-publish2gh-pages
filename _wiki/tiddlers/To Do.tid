@@ -1,0 +1,16 @@
+created: 20180105125417152
+creator: Chris Jobling
+modified: 20180815145435274
+modifier: Chris Jobling
+tags: Tasks
+title: To Do
+type: text/vnd.tiddlywiki
+
+<$list filter="[!has[draft.of]tag[task]!tag[done]sort[created]]">
+
+<$checkbox tag="done"> <$link to={{!!title}}>
+<$view field="title"/>
+</$link>
+</$checkbox>
+
+</$list>

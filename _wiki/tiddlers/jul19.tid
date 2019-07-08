@@ -1,0 +1,22 @@
+caption: July
+created: 20180522235609179
+modified: 20180815145104860
+tags: tabcal19
+title: jul19
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#jul19">[img class="goright" height="570" [Bluebonnet-8100-David-R-Tribble-cc-by-sa.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2019" "7" "">>
+
+"""
+&nbsp;&nbsp;1 - Canada Day ^^Canada^^
+&nbsp;&nbsp;4 - Independence Day ^^USA^^
+12 - Heo Min Jin
+12 - Heo Min Seon
+14 - Bastille Day ^^France^^
+17 - Constitution Day ^^South Korea^^
+"""
+
+[img height="200" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

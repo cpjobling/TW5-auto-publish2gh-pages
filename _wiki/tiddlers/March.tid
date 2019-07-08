@@ -1,0 +1,24 @@
+created: 20171117144337803
+modified: 20180815145434496
+tags: tabcal
+title: March
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#March">[img class="goright" height="570" [(by_Mars_2002).jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2018" "3" "">>
+
+"""
+&nbsp;&nbsp;1 - Independence Movement Day ^^South Korea^^
+&nbsp;&nbsp;1 - Purim
+&nbsp;&nbsp;2 - Holi
+&nbsp;&nbsp;3 - Dolls' Festival / Girls' Festival  ^^Japan^^
+17 - Hindu New Year ^^Indonesia^^
+17 - St. Patrick's Day
+21 - Benito Ju&#x00E1;rex's Birthday Memorial  ^^Mexico^^
+21 - Spring Equinox ^^Japan^^
+31 - Passover (starts)
+"""
+
+[img height="130" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

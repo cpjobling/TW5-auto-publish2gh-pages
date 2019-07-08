@@ -1,0 +1,38 @@
+caption: May
+created: 20180522235355511
+modified: 20190501093713766
+tags: tabcal19
+title: may19
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#may19">[img class="goright" height="570" [Bluebonnet-8100-David-R-Tribble-cc-by-sa.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2019" "5" "">>
+
+"""
+&nbsp;&nbsp;1 - Heroes Day ^^Zambia^^
+&nbsp;&nbsp;1 - Holocaust Memorial Day ^^Israel^^
+&nbsp;&nbsp;1 - May Day
+&nbsp;&nbsp;2 - Republic Day ^^Italy^^
+&nbsp;&nbsp;2 - Unity Day ^^Zambia^^
+&nbsp;&nbsp;3 - Constitution Memorial Day ^^Japan^^
+&nbsp;&nbsp;5 - Children's Day ^^Japan^^
+&nbsp;&nbsp;5 - Liberation Day ^^Netherlands^^
+&nbsp;&nbsp;5 - Mother's Day ^^Spain^^
+&nbsp;&nbsp;6 - Ramadan (begins)
+&nbsp;&nbsp;7 - My birthday - 1959
+&nbsp;&nbsp;8 - Memorial Day ^^Israel^^
+&nbsp;&nbsp;8 - WWII Victory Day ^^France^^
+&nbsp;&nbsp;9 - Independence Day ^^Israel^^
+&nbsp;&nbsp;9 - Victory Day ^^Russia^^
+12 - Mother's Day 
+15 - Park Hye Kyeong
+21 - Victoria Day ^^Canada^^
+21 - Tracy's Birthday
+25 - African Freedom Day
+26 - Mother's Day ^^France^^
+27 - Memorial Day ^^USA^^
+"""
+
+[img height="0" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

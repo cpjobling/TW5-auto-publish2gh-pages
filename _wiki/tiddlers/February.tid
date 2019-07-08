@@ -1,0 +1,21 @@
+created: 20171117144156833
+modified: 20180815145434265
+tags: tabcal
+title: February
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#February">[img class="goright" height="570" [(by_Mars_2002).jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2018" "2" "">>
+
+
+"""
+&nbsp;&nbsp;5 - Constitution Day ^^Mexico^^
+&nbsp;&nbsp;6 - Waitangi Day ^^New Zealand^^
+11 - National Foundation Day ^^Japan^^
+14 - Valentine's Day
+16 - Chinese New Year
+23 - Defender of the Fatherland Day ^^Russia^^
+"""
+[img height="210" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

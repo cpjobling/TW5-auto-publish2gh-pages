@@ -1,0 +1,39 @@
+created: 20180516094939162
+list: 
+modified: 20181204082459085
+tags: [[Journal 2018]]
+title: 16th May 2018
+type: text/vnd.tiddlywiki
+
+! My Tweets
+
+<$twitter type="tweet" tweetID="996649151684403206" />
+<$twitter type="tweet" tweetID="996649118511587329" />
+
+! Watched
+
+!! Google IO 2018
+
+* [[Lessons from Spectre and Meltdown|https://youtu.be/dBuykrdhK-A]]
+* [[Building a seamless web|https://youtu.be/Wi_PhaFdjlo]]
+* [[Introducing .app domain names and how to secure them|https://youtu.be/kBkX30Cj7Bw]]
+* [[PWAs: building bridges to mobile, desktop, and native|https://youtu.be/NITk4kXMQDw]]
+
+[[Playlist Web and Chrome IO18|https://goo.gl/5fgXhX]]
+
+! Did
+
+* Participated in [[#LTHEChat]] [[113|https://lthechat.com/2018/05/10/lthechat-113-is-about-hidden-figures-using-evidence-to-understand-our-students-chat-will-be-hosted-by-themestweets-themeschat/]] ([[Wakelet|https://wakelet.com/wake/c7f5e45f-005e-4417-95f5-2316bf7bc95c]])
+
+
+! Today I Learned
+
+!! About
+
+* [[Spectre and Meltdown|https://developers.google.com/web/updates/2018/02/meltdown-spectre]]
+* [[Web Packaging|https://github.com/WICG/webpackage]]
+* [[Lighthouse|https://developers.google.com/web/tools/lighthouse/]]
+* [[AMP|https://www.ampproject.org/]]
+* [[get.app|https://get.app]] - get a ``.app`` domain.
+* [[What Makes a Good Mobile Site?|https://developers.google.com/web/fundamentals/design-and-ux/principles/?hl=en]]
+* [[Google Bulletin|https://posts.google.com/bulletin/share]]

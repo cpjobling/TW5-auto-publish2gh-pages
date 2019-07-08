@@ -1,0 +1,30 @@
+caption: October
+created: 20180522235130329
+modified: 20180815145104814
+tags: tabcal19
+title: oct19
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#oct19">[img class="goright" height="570" [Bluebonnet-8100-David-R-Tribble-cc-by-sa.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2019" "10" "">>
+
+"""
+&nbsp;&nbsp;1 - National Day ^^China^^
+&nbsp;&nbsp;2 - Mahatma Gandhi Jayanti ^^India^^
+&nbsp;&nbsp;3 - Day of German Unity ^^Germany^^
+&nbsp;&nbsp;3 - National Foundation Day ^^South Korea^^
+&nbsp;&nbsp;9 - Hanguel Proclamation Day ^^South Korea^^
+&nbsp;&nbsp;9 - Yom Kippur
+11 - Jo Sojin
+12 - Hispanic Day ^^Spain^^
+14 - Thanksgiving Day ^^Canada^^
+19 - Sweetest Day ^^United States^^
+24 - Independence Day ^^Zambia^^
+26 - National Day ^^Austria^^
+28 - Labour Day ^^New Zealand^^
+31 - Halloween
+"""
+
+[img height="20" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

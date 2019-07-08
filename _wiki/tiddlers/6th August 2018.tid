@@ -1,0 +1,19 @@
+created: 20180807074407460
+list: 
+modified: 20181204082459767
+tags: [[Journal 2018]]
+title: 6th August 2018
+type: text/vnd.tiddlywiki
+
+! My Tweets
+
+<$twitter type="tweet" tweetID="1026364539611369474" />
+<$twitter type="tweet" tweetID="1026364557839806466" />
+<$twitter type="tweet" tweetID="1024282348995719168" />
+
+
+! Watched
+
+From [[JSConf EU 2018]]: 
+
+* [[Imagine This: A Web Without Servers]]

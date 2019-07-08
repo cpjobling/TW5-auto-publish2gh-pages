@@ -1,0 +1,78 @@
+created: 20180105092012719
+creator: Chris Jobling
+modified: 20180815145434139
+modifier: Chris Jobling
+tags: cpjobling.net Reference task nikola done
+title: Document workflow for Nikola
+type: text/vnd.tiddlywiki
+
+This is how to set up for using Nikola for blogging. It is based on: [[How to Blog with Jupyter (iPython) Notebook and Nikola|http://www.jaakkoluttinen.fi/blog/how-to-blog-with-jupyter-ipython-notebook-and-nikola/]] by [[Jaako Luttinin|http://www.jaakkoluttinen.fi/about/]] (2015).
+
+//Assumptions//: using auto regeneration settings and Jupyter for document preparation with GitHub for hosting code and GH-Pages and deployment at [[dev.cpjobling.net|https://dev.cpjobling.net]].
+
+!! Preparation
+
+Install //Virtualenv// and //Virtualenvwrapper//.
+
+In a new shell tab window execute:
+
+```
+source ~/anaconda3/bin/virtualenvwrapper.sh
+workon devblog
+```
+
+(Sets up python environment and puts you into correct working directory).
+
+```
+nikola auto
+```
+starts auto-regerator and opens local copy of devblog at 127.0.0.1:8080.
+
+Open a new tab window. Repeat above commands and add startup for Jupyter.
+
+```
+source ~/anaconda3/bin/virtualenvwrapper.sh
+workon devblog
+jupyter notebook posts
+```
+
+Open a third tab:
+
+```
+source ~/anaconda3/bin/virtualenvwrapper.sh
+workon devblog
+```
+
+!! New Post
+
+```
+nikola new_post -f ipynb
+```
+
+!! New Page
+
+```
+nikola new_post -f markdown
+```
+
+!! Version control
+
+Important: when you create a new Nikola site. Make sure you have a .gitignore file (my [[Nikola Gitignore File]])) added and committed before you start `nikola auto`.
+
+On //master// branch use the usual git commands to stage and commit changes.
+
+!! Deployment
+
+When ready to deploy static website do:
+
+```
+nikola github_deploy # copies static files to GH Pages
+```
+Result will be found at [[cpjobling.github.io/dev.cpjobling.net|https://cpjobling.github.io/dev.cpjobling.net]].
+
+
+To uppdate [[dev.cpjobling.net|https://dev.cpjobling.net]] use:
+
+```
+nikola deploy
+```

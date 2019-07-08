@@ -1,20 +1,16 @@
 created: 20190701173025778
-modified: 20190702070440060
+modified: 20190708223857505
 tags: Journal
 title: 1st July 2019
 type: text/vnd.tiddlywiki
 
 ! My Tweets
 
-<$twitter type="tweet" tweetID="tweetid" />
-<$twitter type="tweet" tweetID="tweetid" />
-
-
+<$twitter type="tweet" tweetID="1145589013610401792" />
+<$twitter type="tweet" tweetID="1145589005599301632" />
 
 ! Did
 
-! Read
-
-! Watched
-
-! Today I Learned
+* Travelled back from Gregynog
+* Some preparation for progression board
+* Gave Renate a lift

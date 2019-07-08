@@ -1,0 +1,24 @@
+caption: March
+created: 20180522235429908
+modified: 20180815145104846
+tags: tabcal19
+title: mar19
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#mar19">[img class="goright" height="570" [Bluebonnet-8100-David-R-Tribble-cc-by-sa.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2019" "3" "">>
+
+"""
+&nbsp;&nbsp;1 - Independence Movement Day ^^South Korea^^
+&nbsp;&nbsp;3 - Dolls' Festival / Girls' Festival ^^Japan^^
+&nbsp;&nbsp;6 - Park Cho Ah
+17 - St. Patrick's Day
+21 - Benito Juárex's Birthday Memorial ^^Mexico^^
+21 - Holi
+21 - Purim
+21 - Spring Equinox ^^Japan^^
+"""
+
+[img height="130" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

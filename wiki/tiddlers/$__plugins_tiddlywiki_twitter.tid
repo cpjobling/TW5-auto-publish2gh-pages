@@ -1,14 +1,14 @@
 author: JeremyRuston
 core-version: >=5.0.0
-created: 20180103172838102
+created: 20190708222739880
 dependents: 
 description: Twitter for TiddlyWiki
 list: readme usage
-modified: 20180815145433420
+modified: 20190708222739880
 plugin-type: plugin
 title: $:/plugins/tiddlywiki/twitter
 type: application/json
-version: 5.1.15
+version: 5.1.19
 
 {
     "tiddlers": {

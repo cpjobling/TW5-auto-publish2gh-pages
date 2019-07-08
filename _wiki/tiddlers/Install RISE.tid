@@ -1,0 +1,13 @@
+created: 20180124094041954
+modified: 20180815145434575
+title: Install RISE
+type: text/vnd.tiddlywiki
+
+Follow instructions on GitHub [[github.com/damianavila/RISE|https://github.com/damianavila/RISE]].
+
+```
+$ source activate eg-247
+cd ~/dev/EG-247-Resources
+(eg-247) $ conda install -c damianavila82 rise
+(eg-247) $ conda env export > environment.yml
+```

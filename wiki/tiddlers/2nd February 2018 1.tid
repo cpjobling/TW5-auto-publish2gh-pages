@@ -1,0 +1,13 @@
+created: 20180202081850379
+list: 
+modified: 20190708223858211
+tags: [[Journal 2018]]
+title: 2nd February 2018
+type: text/vnd.tiddlywiki
+
+* [[How to Become a Modern Professional Learner - Challenge]] - [[ModProfLearner Task 33]]
+* Tested [[setup.ipynb|https://github.com/cpjobling/EG-247-Resources/blob/master/setup/setup.ipynb]] on Windows 10 with Anaconda 3 and MATLAB 2017b.
+* Updated [[setup.ipynb|https://github.com/cpjobling/EG-247-Resources/blob/master/setup/setup.ipynb]] based on findings.
+* Created a new [[advanced setup guide|https://github.com/cpjobling/EG-247-Resources/blob/master/setup/advanced-setup.md]].
+
+! Today I Learned
