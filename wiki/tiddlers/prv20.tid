@@ -1,14 +1,14 @@
-caption: 2018
-created: 20181204090057145
-modified: 20190708223901101
+caption: 2019
+created: 20180612221525488
+modified: 20190709062944850
 tags: tabcal20
 title: prv20
 type: text/vnd.tiddlywiki
 
 [img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
-<a href="#prv20">[img class="goright" height="570" [Bluebonnet-8100-David-R-Tribble-cc-by-sa.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+<a href="#prv20">[img class="goright" height="570" [2007_Sakura_of_Fukushima-e_007_by_Kropsoq_CC_BY_SA.jpg]]</a> <!-- set height of picture, also picture is link to month -->
 <<diary "2019" "10" "">>
 <<diary "2019" "11" "">>
 <<diary "2019" "12" "">>
-<!--
-[img height="10" [$:/images/shim.gif]] --><!-- fill rest of tiddler to match picture height -->
+
+[img height="5" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

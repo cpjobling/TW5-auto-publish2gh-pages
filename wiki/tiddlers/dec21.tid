@@ -1,0 +1,26 @@
+caption: December
+created: 20181001230112241
+modified: 20190709062944675
+tags: tabcal21
+title: dec21
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#dec21">[img class="goright" height="570" [LotusBud0048a_Frank 'Fg2' Gualtieri_PD.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2021" "12" "">>
+
+"""
+And steadfast as Keat's Eremite,
+Not even stooping from its sphere,
+It asks a little of us here.
+It asks of us a certain height,
+So when at times the mob is swayed
+To carry praise or blame too far,
+We may choose something like a star
+To stay our minds on and be staid.
+&nbsp;
+from //Choose Something Like A Star// by Robert Frost
+"""
+
+[img height="110" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

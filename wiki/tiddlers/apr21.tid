@@ -1,0 +1,26 @@
+caption: April
+created: 20181001225145026
+modified: 20190709062944753
+tags: tabcal21
+title: apr21
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#apr21">[img class="goright" height="570" [LotusBud0048a_Frank 'Fg2' Gualtieri_PD.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2021" "4" "">>
+
+"""
+A little learning is a dangerous thing;
+Drink deep, or taste not the Pierian spring:
+There shallow drafts intoxicate the brain,
+And drinking largely sobers us again.
+&nbsp;
+by Alexander Pope
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+"""
+
+[img height="110" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

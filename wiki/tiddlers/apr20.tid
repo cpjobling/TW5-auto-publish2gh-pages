@@ -1,28 +1,31 @@
 caption: April
-created: 20181204090202201
-modified: 20190708223859686
+created: 20180612222453348
+modified: 20190709062944759
 tags: tabcal20
 title: apr20
 type: text/vnd.tiddlywiki
 
 [img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
-<a href="#apr20">[img class="goright" height="570" [Bluebonnet-8100-David-R-Tribble-cc-by-sa.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+<a href="#apr20">[img class="goright" height="570" [2007_Sakura_of_Fukushima-e_007_by_Kropsoq_CC_BY_SA.jpg]]</a> <!-- set height of picture, also picture is link to month -->
 
 <<diary "2020" "4" "">>
 
 """
-&nbsp;&nbsp;2 - Kim Min Young
-&nbsp;&nbsp;5 - Qing Ming Jie ^^China^^
-14 - Vietnamese Kings' Commemoration Day ^^Vietnam^^
-20 - Pesach I (First day of Passover)
-21 - Easter Sunday
+&nbsp;&nbsp;2 - Vietnamese Kings' Commemoration Day
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^^Vietman^^
+&nbsp;&nbsp;4 - Qing Ming Jie ^^China^^
+&nbsp;&nbsp;9 - Pesach I (First day of Passover)
+12 - Easter Day
+13 - Easter Monday
+15 - Pesach VII (Last day of Passover)
 21 - Tiradentes Day ^^Brazil^^
-22 - Easter Monday
+24 - Ramadan (begins)
 25 - ANZAC Day ^^Australia,^^ ^^New Zealand^^
 25 - Liberation Day ^^Italy^^
-26 - Pesach VII (Last day of Passover)
 27 - King's Birthday ^^Netherlands^^
-30 - Liberation Day / Reunification Day ^^Vietnam^^
+28 - Memorial Day ^^Israel^^
+29 - Independence Day ^^Israel^^
+30 - Liberation Day/Reunification Day ^^Vietnam^^
 """
 
-[img height="70" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->
+[img height="10" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

@@ -1,0 +1,26 @@
+caption: October
+created: 20181103142021969
+modified: 20190709062944870
+tags: tabcal22
+title: oct22
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#oct22">[img class="goright" height="570" [RosaXanthina5_Fanghong_CC-BY-SA.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2022" "10" "">>
+
+"""
+&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+"""
+
+[img height="85" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

@@ -1,0 +1,26 @@
+caption: May
+created: 20181103134309238
+modified: 20190709062944932
+tags: tabcal24
+title: may24
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#may24">[img class="goright" height="570" [Weiße_Immensee_(Kordes_1982)_PD.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2024" "5" "">>
+
+"""
+&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+"""
+
+[img height="110" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

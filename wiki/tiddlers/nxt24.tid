@@ -1,0 +1,13 @@
+caption: 2025
+created: 20181103143057634
+modified: 20190709062944885
+tags: tabcal24
+title: nxt24
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]]<!-- adjust to center picture -->
+<a href="#nxt24">[img class="goright" height="570" [Weiße_Immensee_(Kordes_1982)_PD.jpg]]</a><!-- set height of picture, also picture is link to month -->
+<<diary "2025" "1" "">>
+<<diary "2025" "2" "">>
+<<diary "2025" "3" "">>
+[img height="0" [$:/images/shim.gif]]<!-- fill rest of tiddler to match picture height -->

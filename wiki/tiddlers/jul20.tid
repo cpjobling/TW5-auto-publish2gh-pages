@@ -1,0 +1,23 @@
+caption: July
+created: 20180612223052151
+modified: 20190709062944601
+tags: tabcal20
+title: jul20
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#jul20">[img class="goright" height="570" [2007_Sakura_of_Fukushima-e_007_by_Kropsoq_CC_BY_SA.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2020" "7" "">>
+
+"""
+&nbsp;&nbsp;1 - Canada Day ^^Canada^^
+&nbsp;&nbsp;4 - Independence Day ^^Unnited States^^
+&nbsp;&nbsp;6 - Heroes Day ^^Zambia^^
+&nbsp;&nbsp;7 - Unity Day ^^Zambia^^
+14 - Bastille Day ^^France^^
+17 - Constitution Day ^^South Korea^^
+31 - Eid al-Adha
+"""
+
+[img height="190" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

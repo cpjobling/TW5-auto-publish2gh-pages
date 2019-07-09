@@ -1,0 +1,13 @@
+caption: 2023
+created: 20181103142933248
+modified: 20190709062944890
+tags: tabcal22
+title: nxt22
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]]<!-- adjust to center picture -->
+<a href="#nxt22">[img class="goright" height="570" [RosaXanthina5_Fanghong_CC-BY-SA.jpg]]</a><!-- set height of picture, also picture is link to month -->
+<<diary "2023" "1" "">>
+<<diary "2023" "2" "">>
+<<diary "2023" "3" "">>
+[img height="0" [$:/images/shim.gif]]<!-- fill rest of tiddler to match picture height -->

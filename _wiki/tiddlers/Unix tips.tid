@@ -1,7 +1,0 @@
-created: 20180817142310187
-modified: 20180820152510325
-tags: Reference unix tips howto
-title: Unix tips
-type: text/vnd.tiddlywiki
-
-* [[Delete files older than x days|https://unix.stackexchange.com/questions/194863/delete-files-older-than-x-days#205539]] (using `find`)

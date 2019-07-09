@@ -1,0 +1,25 @@
+caption: January
+created: 20181001224302321
+modified: 20190709062944622
+tags: tabcal21
+title: jan21
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#jan21">[img class="goright" height="570" [LotusBud0048a_Frank 'Fg2' Gualtieri_PD.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2021" "1" "">>
+
+"""
+Words are things, and a small drop of ink,
+Falling like dew upon a thought, produces
+That which makes thousands, perhaps millions, think
+&nbsp;
+by Lord Byron
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+"""
+
+[img height="110" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

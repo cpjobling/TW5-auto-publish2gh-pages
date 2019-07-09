@@ -1,0 +1,25 @@
+caption: September
+created: 20180522234817511
+modified: 20190709062945037
+tags: tabcal20
+title: spt20
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#spt20">[img class="goright" height="570" [2007_Sakura_of_Fukushima-e_007_by_Kropsoq_CC_BY_SA.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2020" "9" "">>
+
+"""
+&nbsp;&nbsp;2 - Independence Day ^^Vietman^^
+&nbsp;&nbsp;6 - Father's Day ^^New Zealand^^
+&nbsp;&nbsp;7 - Independence Day ^^Brazil^^
+&nbsp;&nbsp;7 - Labor Day ^^United States^^
+16 - Independence Day ^^Mexico^^
+19 - Rosh Hashana
+18 - Yom Kippur
+21 - Respect for the Aged Day ^^Japan^^
+23 - Saudi National Day ^^Saudi Arabia^^
+"""
+
+[img height="140" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

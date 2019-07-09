@@ -1,9 +1,0 @@
-created: 20180105000629160
-creator: Chris Jobling
-modified: 20180815145434948
-modifier: Chris Jobling
-tags: Definitions
-title: Nikola
-type: text/vnd.tiddlywiki
-
-Nikola is a static website generator that is written in Python. Its key USP is that posts and pages can be written in a variety of formats including ipython notebooks. Read more here: [[Nikola|https://getnikola.com/]].

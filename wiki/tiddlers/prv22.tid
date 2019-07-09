@@ -1,0 +1,14 @@
+caption: 2021
+created: 20181103131655943
+modified: 20190709062944844
+tags: tabcal22
+title: prv22
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#prv22">[img class="goright" height="570" [RosaXanthina5_Fanghong_CC-BY-SA.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+<<diary "2021" "10" "">>
+<<diary "2021" "11" "">>
+<<diary "2021" "12" "">>
+
+[img height="0" [$:/images/shim.gif]]  <!-- fill rest of tiddler to match picture height -->

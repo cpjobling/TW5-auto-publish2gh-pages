@@ -1,0 +1,14 @@
+caption: 2024
+created: 20181103132049254
+modified: 20190709062944835
+tags: tabcal25
+title: prv25
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#prv25">[img class="goright" height="570" [Eschscholzia_californica_in_Sedovo_001_CC-BY-SA.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+<<diary "2024" "10" "">>
+<<diary "2024" "11" "">>
+<<diary "2024" "12" "">>
+
+[img height="0" [$:/images/shim.gif]]  <!-- fill rest of tiddler to match picture height -->

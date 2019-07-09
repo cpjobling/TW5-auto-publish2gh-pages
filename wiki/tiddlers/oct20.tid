@@ -1,0 +1,25 @@
+caption: October
+created: 20180612224021042
+modified: 20190709062944876
+tags: tabcal20
+title: oct20
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#oct20">[img class="goright" height="570" [2007_Sakura_of_Fukushima-e_007_by_Kropsoq_CC_BY_SA.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2020" "10" "">>
+
+"""
+&nbsp;&nbsp;1 - National Day ^^China^^
+&nbsp;&nbsp;3 - Day of German Unity ^^Germany^^
+&nbsp;&nbsp;3 - National Foundation Day ^^South Korea^^
+&nbsp;&nbsp;9 - Hangeul Proclamation Day ^^South Korea^^
+12 - Hispanic Day ^^Spain^^
+12 - Thanksgiving Day ^^Canada^^
+24 - Independence Day ^^Zambia^^
+29 - Prophet's Birthday
+31 - Halloween
+"""
+
+[img height="150" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

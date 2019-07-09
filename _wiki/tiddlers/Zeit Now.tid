@@ -1,9 +1,0 @@
-created: 20180809181027203
-modified: 20180815145435221
-title: Zeit Now
-type: text/vnd.tiddlywiki
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7XYUMyehniw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-* [[zeit.co/now|https://zeit.co/now]].
-* [[Commentary|https://blog.ouseful.info/2018/08/06/publish-static-websites-docker-containers-or-node-js-apps-just-by-typing-now/]] from Tony Hirst.

@@ -1,0 +1,26 @@
+caption: April
+created: 20181103133951098
+modified: 20190709062944731
+tags: tabcal25
+title: apr25
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#apr25">[img class="goright" height="570" [Eschscholzia_californica_in_Sedovo_001_CC-BY-SA.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2025" "4" "">>
+
+"""
+&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+"""
+
+[img height="110" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

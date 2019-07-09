@@ -1,0 +1,13 @@
+caption: 2024
+created: 20181103143015883
+modified: 20190709062944888
+tags: tabcal23
+title: nxt23
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]]<!-- adjust to center picture -->
+<a href="#nxt23">[img class="goright" height="570" [Tulip_-_floriade_canberra_John O'Neill_CC-BY-SA.jpg]]</a><!-- set height of picture, also picture is link to month -->
+<<diary "2024" "1" "">>
+<<diary "2024" "2" "">>
+<<diary "2024" "3" "">>
+[img height="0" [$:/images/shim.gif]]<!-- fill rest of tiddler to match picture height -->

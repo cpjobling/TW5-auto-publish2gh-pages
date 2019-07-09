@@ -1,0 +1,25 @@
+caption: December
+created: 20181103142646678
+modified: 20190709062944668
+tags: tabcal23
+title: dec23
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#dec23">[img class="goright" height="570" [Tulip_-_floriade_canberra_John O'Neill_CC-BY-SA.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2023" "12" "">>
+
+"""
+&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+"""
+
+[img height="110" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

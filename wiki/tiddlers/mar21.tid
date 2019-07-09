@@ -1,0 +1,24 @@
+caption: March
+created: 20181001224528193
+modified: 20190709062944969
+tags: tabcal21
+title: mar21
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#mar21">[img class="goright" height="570" [LotusBud0048a_Frank 'Fg2' Gualtieri_PD.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2021" "3" "">>
+
+"""
+If a man does not keep pace with his companions, perhaps it is because he hears a different drummer. Let him step to the music which he hears, however measured or far away.
+&nbsp;
+by Henry David Thoreau
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+"""
+
+[img height="110" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

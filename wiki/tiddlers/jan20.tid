@@ -1,21 +1,23 @@
 caption: January
-created: 20181204090257123
-modified: 20190708223900323
+created: 20180612221823710
+modified: 20190709062944625
 tags: tabcal20
 title: jan20
 type: text/vnd.tiddlywiki
 
 [img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
-<a href="#jan19">[img class="goright" height="570" [Bluebonnet-8100-David-R-Tribble-cc-by-sa.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+<a href="#jan20">[img class="goright" height="570" [2007_Sakura_of_Fukushima-e_007_by_Kropsoq_CC_BY_SA.jpg]]</a> <!-- set height of picture, also picture is link to month -->
 
 <<diary "2020" "1" "">>
 """
 &nbsp;&nbsp;1 - New Year's Day
-14 - Coming of Age Day ^^Japan^^
-20 - Kim Min Ji
-21 - Martin Luther King Jr. Day ^^USA^^
-26 - Australia Day ^^Australia^^
-26 - Republic Day ^^India^^
+13 - Coming of Age Day ^^Japan^^
+16 - Australia Day ^^Australia^^
+20 - Martin Luther King Jr. Day ^^United States^^
+25 - Chinese New Year ^^China^^
+25 - Vietnamese New Year ^^Vietnam^^
+26 - Tet holiday begins ^^Vietnam^^
+29 - Tet holiday ends ^^Vietnam^^
 """
 
-[img height="200" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->
+[img height="160" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

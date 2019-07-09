@@ -1,0 +1,13 @@
+caption: 2022
+created: 20181001230205689
+modified: 20190709062944894
+tags: tabcal21
+title: nxt21
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]]<!-- adjust to center picture -->
+<a href="#nxt21">[img class="goright" height="570" [LotusBud0048a_Frank 'Fg2' Gualtieri_PD.jpg]]</a><!-- set height of picture, also picture is link to month -->
+<<diary "2022" "1" "">>
+<<diary "2022" "2" "">>
+<<diary "2022" "3" "">>
+[img height="0" [$:/images/shim.gif]]<!-- fill rest of tiddler to match picture height -->

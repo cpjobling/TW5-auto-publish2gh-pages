@@ -1,6 +1,6 @@
 created: 20171117203156412
-modified: 20190708223901084
-tags: tabcal19 tabcal tabcal20
+modified: 20190709063210423
+tags: tabcal25 tabcal24 tabcal23 tabcal22 tabcal21 tabcal20 tabcal19 tabcal
 title: Readme Tabbed Calendar
 type: text/vnd.tiddlywiki
 
@@ -14,11 +14,32 @@ To edit a month tab, click on the picture,
 
 Download this ~TiddlyWiki: http://tabbed-calendar.tiddlyspot.com/download/
 
-Or use Advanced Search to create a JSON file for import. For the 2018 calendar, all are tagged ''tabcal'', so use Advanced Search with `[tag[tabcal]]` for the Filter and export as JSON. Then import that into your ~TiddlyWiki.
+Download template json for adding new year: <<download tabcal-template-json.zip>> <br />(see notes 15-17)
+
+<!--
+<<download tabcal-template-json.zip>> <br />(see notes 15-17)
+
+<a href="https://dl.dropboxusercontent.com/s/jcgo3tnl1247cs0/tabcal-template-json.zip?dl=0" target="_blank">Download "tabcal-template-json.zip"</a><br />
+(see note 15)
+-->
+
+Or use Advanced Search to create a JSON file for import. For the @@color: red;''2018''@@ calendar, all are tagged @@color: red;''tabcal''@@, so use Advanced Search with `[tag[tabcal]]` for the Filter and export as JSON. Then import that into your ~TiddlyWiki.
 
 For the @@color: red;''2019''@@ calendar, all are tagged @@color: red;''tabcal19''@@, so use Advanced Search with `[tag[tabcal19]]` for the Filter and export as JSON. Then import that into your ~TiddlyWiki.
 
-You can get this modified version (see notes 4 and 5) of BJ's plugin by using Advanced Search with `[tag[bjcalendar]]` for the Filter and export as JSON. Then import that into your ~TiddlyWiki.
+For the @@color: red;''2020''@@ calendar, all are tagged @@color: red;''tabcal20''@@, so use Advanced Search with `[tag[tabcal20]]` for the Filter and export as JSON. Then import that into your ~TiddlyWiki.
+
+For the @@color: red;''2021''@@ calendar, all are tagged @@color: red;''tabcal21''@@, so use Advanced Search with `[tag[tabcal21]]` for the Filter and export as JSON. Then import that into your ~TiddlyWiki.
+
+For the @@color: red;''2022''@@ calendar, all are tagged @@color: red;''tabcal22''@@, so use Advanced Search with `[tag[tabcal22]]` for the Filter and export as JSON. Then import that into your ~TiddlyWiki.
+
+For the @@color: red;''2023''@@ calendar, all are tagged @@color: red;''tabcal23''@@, so use Advanced Search with `[tag[tabcal23]]` for the Filter and export as JSON. Then import that into your ~TiddlyWiki.
+
+For the @@color: red;''2024''@@ calendar, all are tagged @@color: red;''tabcal24''@@, so use Advanced Search with `[tag[tabcal24]]` for the Filter and export as JSON. Then import that into your ~TiddlyWiki.
+
+For the @@color: red;''2025''@@ calendar, all are tagged @@color: red;''tabcal25''@@, so use Advanced Search with `[tag[tabcal25]]` for the Filter and export as JSON. Then import that into your ~TiddlyWiki.
+
+You can get this modified version (see notes 4 and 5) of @@color: red;''BJ's Calendar plugin''@@ by using Advanced Search with `[tag[bjcalendar]]` for the Filter and export as JSON. Then import that into your ~TiddlyWiki.
 
 !!!Notes:
 #[[$:/_TabCalendarStyle]] is a short stylesheet to float pictures left or right, if you are using similar CSS this might interfer
@@ -26,7 +47,30 @@ You can get this modified version (see notes 4 and 5) of BJ's plugin by using Ad
 #[[$:/plugins/bj/Calendar]] BJ's Calendar Plugin, version 1.11.0, if you are already using this plugin, you might check versions before importing
 #[[$:/config/bj/Calendar.json]] changed last day 0 to 6 so week starts on Sunday
 #[[$:/plugins/bj/calendar/sidbar]] removed tag so default calendar is not shown in side bar
-#[[Bluebonnet-8100-David-R-Tribble-cc-by-sa.jpg]] picture 200w by 570h
+#[[(by_Mars_2002).jpg]] 2018 picture 200w by 570h
+#[[Bluebonnet-8100-David-R-Tribble-cc-by-sa.jpg]] 2019 picture 200w by 570h
+#[[2007_Sakura_of_Fukushima-e_007_by_Kropsoq_CC_BY_SA.jpg]] 2020 picture 200w by 570h
+#[[LotusBud0048a_Frank 'Fg2' Gualtieri_PD.jpg]] 2021 picture 200w by 570h
+#[[RosaXanthina5_Fanghong_CC-BY-SA.jpg]] 2022 picture 200w by 570h
+#[[Tulip_-_floriade_canberra_John O'Neill_CC-BY-SA.jpg]] 2023 picture 200w by 570h
+#[[Weiße_Immensee_(Kordes_1982)_PD.jpg]] 2024 picture 200w by 570h
+#[[Eschscholzia_californica_in_Sedovo_001_CC-BY-SA.jpg]] 2025 picture 200w by 570h
 #changed the Story Top Position from 0 to -40 to see more of calendar at one time.
+#added macro to download embedded binary file: [[$:/_macro/jermolene/download]]
+#added embedded zipped tabcal-template.json: [[tabcal-template-json.zip]]
+#Created template json file to make tabbed-calendar for a new year. Download and unzip json then using search-and-replace modify for new calendar year. Instructions included in file. ''Backup your calendar before proceeding!'' Save and import json into your calendar. Import new picture for the new year (name format described in json).
 #https://www.timeanddate.com/ source of holidays
+
+
+<!--
+waiting to figure out why new zip file is corrupted when embedded.
+
+#added macro to download embedded binary file: [[$:/_macro/jermolene/download]]
+#added zipped tabcal-template.json: [[tabcal-template-json.zip]]
+Test <<download tabcal-template-json.zip>>
+
+#added macro to download embedded binary file: [[$:/_macro/jermolene/download]]
+#added zipped tabcal-template.json: [[tabcal-template-json.zip]]
+
+-->
 

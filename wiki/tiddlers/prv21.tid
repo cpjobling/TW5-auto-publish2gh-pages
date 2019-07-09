@@ -1,0 +1,14 @@
+caption: 2020
+created: 20181001224126915
+modified: 20190709062944847
+tags: tabcal21
+title: prv21
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#prv21">[img class="goright" height="570" [LotusBud0048a_Frank 'Fg2' Gualtieri_PD.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+<<diary "2020" "10" "">>
+<<diary "2020" "11" "">>
+<<diary "2020" "12" "">>
+
+[img height="0" [$:/images/shim.gif]]  <!-- fill rest of tiddler to match picture height -->

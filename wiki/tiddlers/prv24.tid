@@ -1,0 +1,14 @@
+caption: 2023
+created: 20181103131939162
+modified: 20190709062944838
+tags: tabcal24
+title: prv24
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#prv24">[img class="goright" height="570" [Weiße_Immensee_(Kordes_1982)_PD.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+<<diary "2023" "10" "">>
+<<diary "2023" "11" "">>
+<<diary "2023" "12" "">>
+
+[img height="0" [$:/images/shim.gif]]  <!-- fill rest of tiddler to match picture height -->

@@ -1,0 +1,18 @@
+caption: August
+created: 20180612223304115
+modified: 20190709062944717
+tags: tabcal20
+title: aug20
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#aug20">[img class="goright" height="570" [2007_Sakura_of_Fukushima-e_007_by_Kropsoq_CC_BY_SA.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2020" "8" "">>
+
+"""
+15 - Liberation Day ^^South Korea^^
+20 - Muharram (Muslim New Year)
+"""
+
+[img height="270" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

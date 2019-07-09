@@ -1,0 +1,22 @@
+caption: June
+created: 20180612222906632
+modified: 20190709062945004
+tags: tabcal20
+title: jun20
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#jun20">[img class="goright" height="570" [2007_Sakura_of_Fukushima-e_007_by_Kropsoq_CC_BY_SA.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2020" "6" "">>
+
+"""
+&nbsp;&nbsp;1 - Queen's Birthday ^^New Zealand^^
+&nbsp;&nbsp;2 - Republic Day ^^Italy^^
+12 - Russia Day ^^Russia^^
+13 - Queen's Birthday ^^United Kingdom^^
+21 - Father's Day
+25 - Dragon Boat Festival ^^China^^
+"""
+
+[img height="210" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

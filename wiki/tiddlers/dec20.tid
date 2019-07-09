@@ -1,0 +1,25 @@
+caption: December
+created: 20180612224423485
+modified: 20190709062944678
+tags: tabcal20
+title: dec20
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#dec20">[img class="goright" height="570" [2007_Sakura_of_Fukushima-e_007_by_Kropsoq_CC_BY_SA.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2020" "12" "">>
+
+"""
+&nbsp;&nbsp;5 - St Nicholas' Eve/Sinterklaas ^^Netherlands^^
+&nbsp;&nbsp;6 - Constitution Day ^^Spain^^
+11 - Hanukkah I (Holiday of lights, begins)
+18 - Hanukkah VIII (last day)
+24 - Christmas Eve
+25 - Christmas Day
+26 - Boxing Day ^^Australia,^^ ^^Canada,^^ ^^Germany,^^ ^^New Zealand^^
+28 - Boxing Day ^^United Kingdom^^
+31 - New Year's Eve
+"""
+
+[img height="140" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

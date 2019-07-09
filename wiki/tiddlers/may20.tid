@@ -1,0 +1,28 @@
+caption: May
+created: 20180612222731459
+modified: 20190709062944944
+tags: tabcal20
+title: may20
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#may20">[img class="goright" height="570" [2007_Sakura_of_Fukushima-e_007_by_Kropsoq_CC_BY_SA.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2020" "5" "">>
+
+"""
+&nbsp;&nbsp;1 - May Day
+&nbsp;&nbsp;3 - Constitution Memorial Day ^^Japan^^
+&nbsp;&nbsp;3 - Mothers' Day ^^Spain^^
+&nbsp;&nbsp;5 - Children's Day ^^Japan^^
+&nbsp;&nbsp;5 - Liberation Day ^^Netherlands^^
+&nbsp;&nbsp;8 - WWII Victory Day ^^France^^
+&nbsp;&nbsp;9 - Victory Day ^^Russia^^
+10 - Mother's Day
+18 - Victoria Day ^^Canada^^
+24 - Eid al-Fitr (Ramadan ends)
+25 - Africa Freedom Day
+25 - Memorial Day ^^United States^^
+"""
+
+[img height="50" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

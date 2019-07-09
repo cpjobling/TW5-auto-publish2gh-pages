@@ -1,0 +1,25 @@
+caption: November
+created: 20180612224219988
+modified: 20190709062944920
+tags: tabcal20
+title: nov20
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#nov20">[img class="goright" height="570" [2007_Sakura_of_Fukushima-e_007_by_Kropsoq_CC_BY_SA.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2020" "11" "">>
+
+"""
+&nbsp;&nbsp;4 - Unity Day ^^Russia^^
+&nbsp;&nbsp;5 - Guy Fawkes ^^New Zealand,^^ ^^United Kingdom^^
+11 - Armistice Day ^^France^^
+11 - Remembrance Day ^^Australia,^^ ^^Canada,^^
+11 - Veterans Day ^^United States^^
+15 - National Day of Mourning ^^Germany^^
+20 - Revolution Day Memorial ^^Mexico^^
+23 - Labor Thanksgiving Day ^^Japan^^
+26 - Thanksgiving Day ^^United States^^
+"""
+
+[img height="150" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

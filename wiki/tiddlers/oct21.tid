@@ -1,0 +1,26 @@
+caption: October
+created: 20181001225915472
+modified: 20190709062944873
+tags: tabcal21
+title: oct21
+type: text/vnd.tiddlywiki
+
+[img class="goright" width="5"[$:/images/shim.gif]] <!-- adjust to center picture -->
+<a href="#oct21">[img class="goright" height="570" [LotusBud0048a_Frank 'Fg2' Gualtieri_PD.jpg]]</a> <!-- set height of picture, also picture is link to month -->
+
+<<diary "2021" "10" "">>
+
+"""
+I shall be telling this with a sigh
+Somewhere ages and ages hence:
+Two roads diverged in a wood and I --
+I took the one less traveled by,
+And that has made all the difference,
+&nbsp;
+from //The Road Not Taken// by Robert Frost
+&nbsp;
+&nbsp;
+&nbsp;
+"""
+
+[img height="85" [$:/images/shim.gif]] <!-- fill rest of tiddler to match picture height -->

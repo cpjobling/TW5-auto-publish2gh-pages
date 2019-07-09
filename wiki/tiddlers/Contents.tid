@@ -1,12 +1,6 @@
-created: 20171221191534865
-creator: Chris Jobling
-list-before: $:/core/ui/SideBar/Open
-modified: 20190708223859735
-modifier: Chris Jobling
-tags: $:/tags/SideBar
+created: 20171116234738459
+modified: 20190709062944684
+tags: 
 title: Contents
-type: text/vnd.tiddlywiki
+type: application/x-tiddler
 
-<div class="tc-table-of-contents">
-<<toc-selective-expandable 'Contents' sort[title]>>
-</div>
