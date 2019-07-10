@@ -3,5 +3,7 @@ wiki/output
 node_modules
 .vscode
 *.log
+journal.html
+journal.html_backup
 
 
