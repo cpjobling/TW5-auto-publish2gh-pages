@@ -1,0 +1,12 @@
+created: 20180516095421310
+creator: ChrisJobling
+draft.of: Daily Tweet
+draft.title: Daily Tweet
+modified: 20190718071855521
+modifier: Chris Jobling
+tags: 
+title: Draft of 'Daily Tweet'
+type: text/vnd.tiddlywiki
+
+<$twitter type="tweet" tweetID="tweetid" />
+<$twitter type="tweet" tweetID="tweetid" />
