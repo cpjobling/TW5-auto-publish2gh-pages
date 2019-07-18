@@ -8,6 +8,8 @@ cp static.info ./*wiki/tiddlywiki.info
 rm -rf ./*wiki/output
 # Build
 tiddlywiki ./*wiki --build
+# Copy to Quine
+cp ./*wiki/output/index.html $HOME/Dropbox/Apps/Quine/Journal/journal.html
 # Restore info file
 mv tiddlywiki.info ./*wiki
 
