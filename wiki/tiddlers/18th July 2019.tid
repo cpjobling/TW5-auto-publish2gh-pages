@@ -1,5 +1,5 @@
 created: 20190718071832686
-modified: 20190718071923009
+modified: 20190719074253811
 tags: Journal 2019
 title: 18th July 2019
 type: text/vnd.tiddlywiki
@@ -7,12 +7,17 @@ type: text/vnd.tiddlywiki
 ! My Tweets
 
 <$twitter type="tweet" tweetID="1151749409438339072" />
-
+<$twitter type="tweet" tweetID="1151935831508168704" />
 
 ! Did
 
+* Meeting to discuss combined student feedback.
+* Email backlog
+
 ! Read
 
-! Watched
+* [[Tracking Jupyter Newsletter 21|https://tinyletter.com/TrackingJupyter/letters/tracking-jupyter-newsletter-the-twenty-first]]
 
 ! Today I Learned
+
+* Messages in Oulook Groups are not surfaced into unread mail.
