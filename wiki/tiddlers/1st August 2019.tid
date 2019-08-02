@@ -1,0 +1,30 @@
+created: 20190802063446264
+modified: 20190802064424512
+tags: Journal 2019
+title: 1st August 2019
+type: text/vnd.tiddlywiki
+
+! My Tweets
+
+<$twitter type="tweet" tweetID="1156822820963409920" />
+<$twitter type="tweet" tweetID="1156822819662991360" />
+
+! Did
+
+* CPD (see watched below)
+* Gathered information on [[Curriculum Mapping]]
+* Found sources of [[Pedagogic Advice]]
+* Gathered AHEP learning outcomes
+* Online chat with LTHEChat team.
+
+! Watched
+
+!! Agile is Dead by pragmatic Dave Thomas
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a-BOSpxYJ9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Note Description of PID at [[24:40|https://youtu.be/a-BOSpxYJ9M?t=1480]]
+
+!! Python and Jupyter in depth
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hgiNlxUN2V0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

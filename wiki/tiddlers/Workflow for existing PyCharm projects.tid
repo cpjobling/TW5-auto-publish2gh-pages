@@ -1,0 +1,20 @@
+created: 20190731112934523
+modified: 20190731115015119
+tags: CPD tips PyCharm
+title: Workflow for existing PyCharm projects
+type: text/vnd.tiddlywiki
+
+From the command line:
+
+* Checkout Python  project from GitHub
+* Create a project local .env file for virtual environment:
+```
+cd project
+python -m venv --copies .env
+```
+* Drag folder to PyCharm icon
+* Adjust sources using `right click -> Mark Directory as` on a Directory to define:
+** sources root, 
+** template folder,
+** excluded for folders to ignore, 
+** resources root for folders that contain web resources, etc.

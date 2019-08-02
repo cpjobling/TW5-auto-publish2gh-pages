@@ -1,0 +1,29 @@
+created: 20190731095231765
+modified: 20190731112858681
+tags: cpd python PyCharm
+title: Mastering PyCharm
+type: text/vnd.tiddlywiki
+
+An online course
+
+! Course Web Site
+
+[[Mastering PyCharm|https://training.talkpython.fm/courses/explore_pycharm/mastering-pycharm-ide]] by Michael Kennedy (@[[mkennedy|https://twitter.com/mkennedy]]) of the [[Talk Python to Me|https://talkpython.fm/]] podcast.
+
+! PyCharm Cheat Sheet
+
+[[PyCharm_Reference_Card.pdf|https://blog.jetbrains.com/pycharm/files/2010/07/PyCharm_Reference_Card.pdf]]
+
+! ~GitHub Repository for Course
+
+[[github.com/talkpython/mastering-pycharm-course|https://github.com/talkpython/mastering-pycharm-course]]
+
+! Register with ~JetBrains for Educational License
+
+[[Free individual licenses for students|https://www.jetbrains.com/student/]] (and Faculty)
+
+! [[PyCharm Pro|https://www.jetbrains.com/pycharm]]
+
+! Lessons Learned
+
+* [[Workflow for existing PyCharm projects]]
