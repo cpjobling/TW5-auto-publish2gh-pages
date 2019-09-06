@@ -1,6 +1,6 @@
 created: 20181204082134153
 creator: Chris Jobling
-modified: 20190821083521419
+modified: 20190906082814297
 modifier: Chris Jobling
 tags: Contents tabcal19
 title: Journal 2019
@@ -10,4 +10,4 @@ I plan to write here most days about what I read from twitter, watch on ~YouTube
 
 Some of my thoughts might turn into public items on my [[Personal|https://blog.cpjobling.net]] or [[Development|https://dev.cpjobling.net]] blogs.
 
-<<tabs "prv19 jan19 feb19 mar19 apr19 may19 jun19 jul19 aug19 spt19 oct19 nov19 dec19 nxt19" "aug19" "$:/state/tabcal19" "tc-vertical">>
+<<tabs "prv19 jan19 feb19 mar19 apr19 may19 jun19 jul19 aug19 spt19 oct19 nov19 dec19 nxt19" "spt19" "$:/state/tabcal19" "tc-vertical">>
