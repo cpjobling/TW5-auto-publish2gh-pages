@@ -1,0 +1,37 @@
+created: 20190109154902869
+modified: 20190709062944821
+tags: $:/tags/Macro macro
+title: $:/_macro/jermolene/download
+type: application/x-tiddler
+
+\define download-inner(title)
+<a href=<<makedatauri """$(text)$""" """$(type)$""">> download="$title$">Download "$title$"</a>
+\end
+
+\define download(title)
+<$set name="type" value={{$title$!!type}}>
+<$set name="text" value={{$title$!!text}}>
+<<download-inner "$title$">>
+</$set>
+</$set>
+\end
+
+```
+\define download-inner(title)
+<a href=<<makedatauri """$(text)$""" """$(type)$""">> download="$title$">Download "$title$"</a>
+\end
+
+\define download(title)
+<$set name="type" value={{$title$!!type}}>
+<$set name="text" value={{$title$!!text}}>
+<<download-inner "$title$">>
+</$set>
+</$set>
+\end
+
+<<download FILENAME>>
+```
+
+Download embedded base64 encoded files: gif, jpg, png, pdf, zip.
+
+from: https://groups.google.com/d/msg/TiddlyWiki/XoyXlWO8SpA/K_IcD4qgvhwJ

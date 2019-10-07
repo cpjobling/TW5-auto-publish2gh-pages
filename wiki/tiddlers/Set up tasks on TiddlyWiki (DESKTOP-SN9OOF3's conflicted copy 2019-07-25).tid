@@ -1,0 +1,36 @@
+created: 20180105092157025
+creator: Chris Jobling
+modified: 20190708223901131
+modifier: Chris Jobling
+tags: task done
+title: Set up tasks on TiddlyWiki
+type: text/vnd.tiddlywiki
+
+Watching this [[video|https://youtu.be/mzoMhKx0j8g]] from [[Francis Meetze|https://www.youtube.com/channel/UCCYN_nzlUKKMiTj5rerv2lQ]].
+
+1. Create tiddlers [[To Do]] and [[Completed]] and tag them tasks.
+
+2. Tags tasks with tag `task`
+
+3. Add this code to [[To Do]] tiddler
+
+```html
+<$list filter="[!has[draft.of]tag[task]!tag[done]sort[created]]">
+
+<$checkbox tag="done"> <$link to={{!!title}}>
+<$view field="title"/>
+</$link>
+</$checkbox>
+
+</$list>
+```
+
+4. Add this code to [[Completed]] tiddler
+
+```html
+<$list filter="[!has[draft]tag[task]tag[done]sort[created]]">
+
+<$checkbox tag="done"> ~~<$link to={{!!title}}><$view field="title" /></$link>~~</$checkbox> -- <$view field="modified" format="date" template="DDth mmm YYYY hh:mm" />
+
+</$list>
+```

@@ -1,0 +1,121 @@
+created: 20180114120325914
+modified: 20190708223900235
+tags: [[Google Groups]]
+title: Had to rebuild wiki after an error
+type: text/vnd.tiddlywiki
+
+[[W5 Server Version has gotten into a weird state|https://groups.google.com/forum/#!topic/tiddlywiki/rNPmaFL9PoE]]
+
+<<<
+One of my TW5 server wikis has gotten into a weird state in which tiddlers have become replaced by full file paths. For example
+
+tiddler `wiki/tiddlers/10th January 2018.tid` is appearing as a file `/Users/me/.../wiki/tiddlers/10th January 2018.tid` with header:
+
+```
+modified: 20180112164435213
+modifier: Chris Jobling
+
+tags: Journal
+title: 10th January 2018
+type: text/vnd.tiddlywiki
+```
+
+The content is present in this file, but if I try to create a new tiddler in the server from the content, it reverts to the file-path version on server restart.
+
+Also, on my mac the `$__StoryList.tid` is saved with a number appended `$__StoryList.tid 1` and next time the server is opened `$__StoryList.tid 2`.
+
+Is there a simple way to recover?
+
+TiddlyWiki is 5.1.15
+
+TiddlyWiki.info:
+
+```
+{
+    "description": "Empty edition",
+    "plugins": [
+        "tiddlywiki/tiddlyweb",
+        "tiddlywiki/filesystem",
+        "tiddlywiki/highlight",
+        "tiddlywiki/codemirror"
+    ],
+    "username": "Chris Jobling",
+    "themes": [
+        "tiddlywiki/vanilla",
+        "tiddlywiki/snowwhite"
+    ],
+    "languages": [
+          "en-GB"
+      ],
+    "build": {
+        "index": [
+            "--rendertiddler","$:/core/save/all","index.html","text/plain"
+        ],
+        "favicon": [
+          "--savetiddler","$:/favicon.ico","favicon.ico"
+        ],
+        "readme": [
+            "--rendertiddler","ReadMe","readme.md","text/html",
+            "--rendertiddler","License","license.md","text/html"
+        ],
+        "externalimages": [
+            "--savetiddlers","[![is.draft]is[image]]","images",
+            "--setfield","[![is.draft]is[image]]","_canonical_uri","$:/core/templates/canonical-uri-external-image","text/plain",
+            "--rendertiddler","$:/core/save/all","externalimages.html","text/plain"
+        ],
+        "static": [
+            "--rendertiddler","[![is.draft]tag[private]]","$:/core/templates/static.template.html","static.html","text/plain",
+            "--rendertiddler","[![is.draft]tag[private]]","$:/core/templates/alltiddlers.template.html","alltiddlers.html","text/plain",
+            "--rendertiddlers","[!is[system]]","$:/core/templates/static.tiddler.html","static","text/plain",
+            "--rendertiddler","$:/core/templates/static.template.css","static/static.css","text/plain"
+        ]
+    }
+}
+```
+
+<<<
+This problem also affects new tiddlers. I create a new tiddler Called "Test Tiddler Write"
+
+The only indication that something may not be right is the message **hasMetaFile isFalse** in the server log before server apparently writes the tiddler file.
+
+```
+syncer-server-filesystem: Dispatching 'save' task: Test Tiddler Write
+For Test Tiddler Write, type is application/x-tiddler hasMetaFile is false filepath is /Users/me/.../wiki/tiddlers/Test Tiddler Write.tid
+ filesystem: Saved file /Users/me/.../wiki/tiddlers/Test Tiddler Write.tid
+```
+
+When the server is restarted, `Test Tiddler Write` is in the Orphans file with name that is the full file path.
+
+<<<
+Hi cpjobling
+
+I don’t see anything amiss with your tiddlywiki.info file. Does the “tiddlers” subfolder contain any files called tiddlywiki.files? I’d be happy to look at it if you’ve kept a copy. Can you post the wiki folder as a zip file? Or you could send it directly to me if you’d prefer.
+
+Best wishes
+
+Jeremy
+
+<<< Jeremy Rushton
+
+I sent Jermy the Git commit that first seemed to have this odd behaviour:
+
+[[Update 10th January 2018|https://github.com/cpjobling/journal.cpjobling.net/commit/d9ca5042ddb4a6c916393a45286f54ff656523ac]]
+
+<<<
+Hi Jeremy
+
+I think I replied privately and as I can't see my reply, I am assuming it didn't work!
+
+My wiki is under version control and the commit at which it started to fail was this one: https://github.com/cpjobling/journal.cpjobling.net/commit/d9ca5042ddb4a6c916393a45286f54ff656523ac.
+
+You can easily spot the problem tiddlers by looking at More> All.
+
+There are a number of attempts to correct this between the 10th January commit and the version where I rebuilt the wiki which was https://github.com/cpjobling/journal.cpjobling.net/commit/8af7a86613f16eb75a8a6029296209957be71af5.
+
+My strategy was to copy the content of the tiddlers that had become file links into new tiddlers, delete the file tiddler, save the recovered tiddly. The tiddlywiki --server log implied that the right file was saved, but when the server was restarted, it would have become an external file again.
+
+If I didn't delete the file, before saving the recovered tiddler, the recovered tiddler would get saved as "Tiddler Name 1.tld"
+
+Chris
+
+<<<
