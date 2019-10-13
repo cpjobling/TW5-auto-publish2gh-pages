@@ -1,9 +1,9 @@
 author: JeremyRuston
-created: 20190708222703146
+created: 20191013114106935
 dependents: 
 description: CodeMirror Mode: Markdown Highlighting
 list: readme
-modified: 20190708222703146
+modified: 20191013114106935
 plugin-type: plugin
 title: $:/plugins/tiddlywiki/codemirror-mode-markdown
 type: application/json

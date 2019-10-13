@@ -1,10 +1,10 @@
 author: JeremyRuston
 core-version: >=5.0.0
-created: 20190708222659872
+created: 20191013114115549
 dependents: 
 description: Markdown parser
 list: readme usage
-modified: 20190708222659872
+modified: 20191013114115549
 plugin-type: plugin
 title: $:/plugins/tiddlywiki/markdown
 type: application/json
