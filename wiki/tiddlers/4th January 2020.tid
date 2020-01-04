@@ -1,5 +1,5 @@
 created: 20200104124404396
-modified: 20200104133833096
+modified: 20200104142532034
 tags: Journal 2019
 title: 4th January 2020
 type: text/vnd.tiddlywiki
@@ -11,9 +11,10 @@ type: text/vnd.tiddlywiki
 
 ! Did
 
-* Upgraded TiddlyWiki to [[release 1.5.21|https://tiddlywiki.com/#Release%205.1.21]].
+* Upgraded TiddlyWiki to [[release 5.1.21|https://tiddlywiki.com/#Release%205.1.21]].
 * Tried the TiddlyDrive app to try TiddlyWiki on GDrive but it blocks twitter calls. 
-* Added link to save to GitHub
+* Added link to save to GitHub but it doesn't work with server
+* Installed and configure [[TiddlyServer|https://arlen22.github.io/tiddlyserver/]].
 
 ! Read
 
