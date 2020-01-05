@@ -1,5 +1,5 @@
 created: 20200104124404396
-modified: 20200104171931182
+modified: 20200105230027364
 tags: Journal 2019
 title: 4th January 2020
 type: text/vnd.tiddlywiki
@@ -14,12 +14,6 @@ type: text/vnd.tiddlywiki
 * Upgraded TiddlyWiki to [[release 5.1.21|https://tiddlywiki.com/#Release%205.1.21]].
 * Tried the TiddlyDrive app to try TiddlyWiki on GDrive but it blocks twitter calls. 
 * Added link to save to GitHub but it doesn't work with server
-* Installed and configure [[TiddlyServer|https://arlen22.github.io/tiddlyserver/]] and corresponding auto-load services as per this StackOverflow article [[How do I run a node.js app as a background service|https://stackoverflow.com/questions/4018154/how-do-i-run-a-node-js-app-as-a-background-service]]?
+* Installed and configured [[TiddlyServer|https://arlen22.github.io/tiddlyserver/]] and corresponding auto-load services as per this StackOverflow article [[How do I run a node.js app as a background service|https://stackoverflow.com/questions/4018154/how-do-i-run-a-node-js-app-as-a-background-service]]?
 ** [[Mac|https://stackoverflow.com/questions/4018154/how-do-i-run-a-node-js-app-as-a-background-service/25998406#25998406]]
 ** [[Windows|https://github.com/coreybutler/node-windows]]
-
-! Read
-
-! Watched
-
-! Today I Learned
