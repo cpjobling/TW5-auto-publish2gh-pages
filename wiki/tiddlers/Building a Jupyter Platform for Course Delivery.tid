@@ -1,8 +1,12 @@
 created: 20190611103012846
-modified: 20190708223859642
+modified: 20200105113609749
 tags: jupyter
 title: Building a Jupyter Platform for Course Delivery
 type: text/vnd.tiddlywiki
+
+! Main Reference
+
+* [[Books with Jupyter|https://jupyterbook.org/intro]]
 
 ! Build log
 
