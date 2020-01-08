@@ -1,5 +1,5 @@
 created: 20200106102555858
-modified: 20200107092022058
+modified: 20200107093847699
 tags: Journal 2019
 title: 6th January 2020
 type: text/vnd.tiddlywiki
@@ -17,3 +17,7 @@ type: text/vnd.tiddlywiki
 * Installed [[rise|https://rise.readthedocs.io/en/maint-5.6/#]] for both textbooks.
 * Completed eg-247-textbook update.
 * Marked about six EG-151 projects
+
+! Read
+
+* [[How to Set Up Your Python Environment|https://www.davidculley.com/installing-python-on-a-mac/]] -- David Culley
