@@ -1,5 +1,5 @@
 created: 20200130072803668
-modified: 20200130075422015
+modified: 20200201135534612
 tags: Journal 2019
 title: 30th January 2020
 type: text/vnd.tiddlywiki
@@ -7,13 +7,16 @@ type: text/vnd.tiddlywiki
 ! My Tweets
 
 
-<$twitter type="tweet" tweetID="" />
-<$twitter type="tweet" tweetID="" />
+<$twitter type="tweet" tweetID="1222792378265882624" />
+<$twitter type="tweet" tweetID="1222792351535587329" />
 
 ! Did
 
-! Read
+* Lecture prep
+* EGLM03 First Week
+* EG-247 First Week
+* IET Lecture with Craig Smith
 
 ! Watched
 
-! Today I Learned
+<$twitter type="tweet" tweetID="1222959082950316038" />
