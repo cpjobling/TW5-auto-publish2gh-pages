@@ -1,5 +1,5 @@
 created: 20200706081911295
-modified: 20200706084648451
+modified: 20200706134916231
 tags: Journal 2020
 title: 6th July 2020
 type: text/vnd.tiddlywiki
@@ -10,8 +10,19 @@ type: text/vnd.tiddlywiki
 
 <$twitter type="tweet" tweetID="1280034835705274369" />
 <$twitter type="tweet" tweetID="1280034846069460992" />
+<$twitter type="tweet" tweetID="1280120766583971842?" />
+
 
 ! Did
+
+* Updated this journal
+* Email
+* BYCSWM: [[Episode 2|https://collegeintranet.swan.ac.uk/wordpress/?p=1101]]
+
+! Notes
+
+* [[Managing deploy keys|https://docs.github.com/en/developers/overview/managing-deploy-keys]] (GitHub)
+* [[Switching remote URLs from HTTPS to SSH|https://docs.github.com/en/github/using-git/changing-a-remotes-url#switching-remote-urls-from-https-to-ssh]]
 
 ! Read
 
