@@ -1,0 +1,16 @@
+created: 20200706083416180
+modified: 20200706084112733
+tags: Tips
+title: Setup Mac for Developers
+type: text/vnd.tiddlywiki
+
+! Resources
+
+* [[Setup your Mac for development, 2020 edition.|https://dev.to/v3frankie/setup-your-mac-for-development-2020-edition-1c8a]]
+* [[Setting Up a Mac OS Development Environment|https://medium.com/@davidbrookton/setting-up-a-mac-os-development-environment-834f81a4ea88]]
+
+! Instructions
+
+* [[How to Set up an Apple Mac for Software Development|https://www.stuartellis.name/articles/mac-setup/#creating-a-private-applications-folder]]
+* [[Setting up the Neovim Text Editor|https://www.stuartellis.name/articles/neovim-setup/]]
+* [[Setting Up Visual Studio Code|https://www.stuartellis.name/articles/visual-studio-code/]]
