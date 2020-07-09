@@ -1,5 +1,5 @@
 created: 20200706081911295
-modified: 20200706134916231
+modified: 20200707123547453
 tags: Journal 2020
 title: 6th July 2020
 type: text/vnd.tiddlywiki
@@ -10,7 +10,8 @@ type: text/vnd.tiddlywiki
 
 <$twitter type="tweet" tweetID="1280034835705274369" />
 <$twitter type="tweet" tweetID="1280034846069460992" />
-<$twitter type="tweet" tweetID="1280120766583971842?" />
+<$twitter type="tweet" tweetID="1280120766583971842" />
+<$twitter type="tweet" tweetID="1280224877329383430" />
 
 
 ! Did
@@ -18,14 +19,13 @@ type: text/vnd.tiddlywiki
 * Updated this journal
 * Email
 * BYCSWM: [[Episode 2|https://collegeintranet.swan.ac.uk/wordpress/?p=1101]]
+* EEE Teatime
 
 ! Notes
 
 * [[Managing deploy keys|https://docs.github.com/en/developers/overview/managing-deploy-keys]] (GitHub)
 * [[Switching remote URLs from HTTPS to SSH|https://docs.github.com/en/github/using-git/changing-a-remotes-url#switching-remote-urls-from-https-to-ssh]]
 
-! Read
-
-! Watched
-
 ! Today I Learned
+
+That I won't qualify for a full USS pension until I'm 66 and if I take early retirement before October 2020, my pension benefits will be reduced.

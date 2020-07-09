@@ -1,0 +1,27 @@
+created: 20200707123559234
+modified: 20200708105542790
+tags: Journal 2020
+title: 7th July 2020
+type: text/vnd.tiddlywiki
+
+! Day 104 of the Lockdown
+
+! My Tweets
+
+<$twitter type="tweet" tweetID="1280397327447011328" />
+<$twitter type="tweet" tweetID="1280397326159351808" />
+
+
+! Did
+
+* Meeting on Induction Events
+* EEE Tea time
+* BYCSWM: [[Episode 3|https://collegeintranet.swan.ac.uk/wordpress/?p=1101]]
+
+! Watched
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C7VScPdhMvY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+! Notes
+
+* [[bitnami/bitnami-docker-moodle|https://github.com/bitnami/bitnami-docker-moodle]]
