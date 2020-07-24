@@ -1,0 +1,25 @@
+created: 20200724074641952
+modified: 20200724081227954
+tags: Journal 2020
+title: 19th July 2020
+type: text/vnd.tiddlywiki
+
+! Day 120 of the Lockdown
+
+!! My Tweets
+
+<$twitter type="tweet" tweetID="1284746064373981194" />
+<$twitter type="tweet" tweetID="1284746055662342145" />
+
+!! Did
+
+* Remaking EG-247 Textbook using new [[Jupyter-Book|https://github.com/executablebooks/jupyter-book]] based on [[MyST|https://myst-parser.readthedocs.io/en/latest/]] and [[Sphinx|https://www.sphinx-doc.org/en/master/index.html]]
+
+!! Noted
+
+* [[Books with Jupyter|https://jupyterbook.org/intro.html]] Documentation.
+
+!! Contributions
+
+* [[An easy way to specify a list of assets that should be copied over|https://github.com/executablebooks/jupyter-book/issues/790#issuecomment-660626715]]
+* [[Slideshow Presentations|https://github.com/executablebooks/meta/issues/52#issuecomment-660622687]]
