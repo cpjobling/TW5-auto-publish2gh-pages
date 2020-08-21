@@ -1,5 +1,5 @@
 created: 20200724073652943
-modified: 20200727075639941
+modified: 20200727090738424
 tags: Journal 2020
 title: 24th July 2020
 type: text/vnd.tiddlywiki
@@ -20,8 +20,14 @@ type: text/vnd.tiddlywiki
 ! Did
 
 * EEE Canvas drop in
+* Converted [[EG-247 introduction|https://github.com/cpjobling/eg-247-textbook/tree/master/introduction]] to [[Jupytext|https://jupytext.readthedocs.io/en/latest/introduction.html]] ([[Jupytext source files|https://jupyterbook.org/content-types/jupytext.html]])
+
+! Watched
+
+!! PyParis 2018 - Jupytext: Edit Jupyter notebooks represented as Python scripts
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y-VEZenk824" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ! Read
-
 * [[Boris visited Scotland to save the union. Mission accomplished — for the SNP|https://www.theguardian.com/politics/2020/jul/23/boris-visited-scotland-to-save-the-union-mission-accomplished-for-the-snp]]
 * [[The Russia report reveals that MI5 and MI6 have lost their way|https://www.theguardian.com/commentisfree/2020/jul/24/russia-report-uk-intelligence-services-moscow-mi5-mi6]]
