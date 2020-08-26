@@ -1,5 +1,5 @@
 created: 20200821072450584
-modified: 20200821081710971
+modified: 20200825090451939
 tags: Journal 2020
 title: 21st August 2020
 type: text/vnd.tiddlywiki
@@ -19,15 +19,10 @@ How long can Britain withstand this? A new poll shows Labour beginning to eat in
 <$twitter type="tweet" tweetID="1296704780392374272" />
 <$twitter type="tweet" tweetID="1296704778723102721" />
 
-! Did
-
-! Read
 
 ! Watched
 
-!! To Watch
-
-!!! Canvas Support
+!! Canvas Support
 
 * [[How to Create Quizzes in Canvas LMS|https://youtu.be/fVZfGpjDFFY]]
 * [[How to Use Gradebook in Canvas LMS|https://youtu.be/XkEG7KMGgjg]]
@@ -36,6 +31,10 @@ How long can Britain withstand this? A new poll shows Labour beginning to eat in
 * [[How to Import Course Content into Canvas LMS|https://youtu.be/HvSPgaQN160]]
 
 ! Today I Learned
+
+* Don't make Canvas grades visible to students unless you want them to see the non-hidden columns
+* How to set up weighted grade components
+* How to link in an Office 365 Cloud Assignment
 
 ! Noted
 
