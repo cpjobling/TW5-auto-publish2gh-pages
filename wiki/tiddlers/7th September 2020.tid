@@ -1,0 +1,24 @@
+created: 20200907083804897
+modified: 20200909072455689
+tags: Journal 2020
+title: 7th September 2020
+type: text/vnd.tiddlywiki
+
+! My Tweets
+
+<$twitter type="tweet" tweetID="1302865352641183745" />
+<$twitter type="tweet" tweetID="1302865350116155392" />
+<$twitter type="tweet" tweetID="1302879666802511874" />
+
+! News
+
+* [[Monday briefing: Johnson plans to unpick Brexit|https://www.theguardian.com/world/2020/sep/07/monday-briefing-johnson-plans-to-unpick-brexit-treaty]]
+
+! Did
+
+* Supplementary exam board
+* Canvas development
+
+! Code notes
+
+* When using [[Pandoc|https://pandoc.org/]], changed filter to `pandoc-codeblock-include` using this filter [[pandoc-codeblock-include|https://pypi.org/project/pandoc-codeblock-include/]] for [[EG-252-Resources|https://cpjobling.github.io/EG-252-Resources/]].
