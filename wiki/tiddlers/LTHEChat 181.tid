@@ -1,5 +1,5 @@
 created: 20200909155446018
-modified: 20200909155904007
+modified: 20200910075125196
 tags: #LTHEChat
 title: LTHEChat 181
 type: text/vnd.tiddlywiki
@@ -13,15 +13,45 @@ LTHEchat 181:
 
 ! Questions
 
-<$twitter type="tweet" tweetID="" />
-<$twitter type="tweet" tweetID="" />
-<$twitter type="tweet" tweetID="" />
-<$twitter type="tweet" tweetID="" />
-<$twitter type="tweet" tweetID="" />
-<$twitter type="tweet" tweetID="" />
-<$twitter type="tweet" tweetID="" />
-<$twitter type="tweet" tweetID="" />
+<$twitter type="tweet" tweetID="1303793328488624128" />
+<$twitter type="tweet" tweetID="1303771231817269249" />
+<$twitter type="tweet" tweetID="1303771870546857984" />
+<$twitter type="tweet" tweetID="1303773007966547968" />
+<$twitter type="tweet" tweetID="1303775487936933890" />
+<$twitter type="tweet" tweetID="1303778783896498177" />
+<$twitter type="tweet" tweetID="1303779919940530179" />
+<$twitter type="tweet" tweetID="1303782090958397440" />
+<$twitter type="tweet" tweetID="1303784157433257986" />
+
+! My Tweets
+
+<$twitter type="tweet" tweetID="1303773643063861248" />
+<$twitter type="tweet" tweetID="1303777764684824577" />
+<$twitter type="tweet" tweetID="1303778036454690822" />
+<$twitter type="tweet" tweetID="1303780827323662336" />
+<$twitter type="tweet" tweetID="1303781452409114625" />
+<$twitter type="tweet" tweetID="1303782463785897984" />
+<$twitter type="tweet" tweetID="1303783005530578944" />
+<$twitter type="tweet" tweetID="1303782696615907335" />
+<$twitter type="tweet" tweetID="1303784741594947585" />
+<$twitter type="tweet" tweetID="1303785245557178369" />
+<$twitter type="tweet" tweetID="1303786070912520194" />
+<$twitter type="tweet" tweetID="1303791507879661570" />
+<$twitter type="tweet" tweetID="1303792256273592321" />
+<$twitter type="tweet" tweetID="1303794620715892739" />
+<$twitter type="tweet" tweetID="1303814173613338628" />
+
+! Liked
+
+<$twitter type="tweet" tweetID="1303773008599842817" />
+<$twitter type="tweet" tweetID="1303774479924047873" />
+<$twitter type="tweet" tweetID="1303777807282167811" />
+<$twitter type="tweet" tweetID="1303784498174320642" />
+<$twitter type="tweet" tweetID="1303781544809631744" />
+<$twitter type="tweet" tweetID="1303784907672518664" />
+<$twitter type="tweet" tweetID="1303774184225603588" />
+<$twitter type="tweet" tweetID="1303783550056099841" />
 
 ! Wakelet
 
-* [[#LTHEchat 181|]]
+Coming Soon
