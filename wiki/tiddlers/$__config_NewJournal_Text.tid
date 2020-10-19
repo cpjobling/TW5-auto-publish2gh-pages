@@ -1,13 +1,18 @@
 created: 20190708222331826
 creator: Chris Jobling
-modified: 20200511092121685
+modified: 20201019074050403
 modifier: Chris Jobling
 title: $:/config/NewJournal/Text
 type: text/vnd.tiddlywiki
 
-! Day XX of the Lockdown
+! News
+
+* [[Thursday briefing: Brexit talks – don't walk away, PM told|https://www.theguardian.com/world/2020/oct/15/thursday-briefing-brexit-talks-dont-walk-away-pm-told]]
 
 ! My Tweets
+
+<$twitter type="tweet" tweetID="1316636298095005702" />
+<$twitter type="tweet" tweetID="1316636295708504064" />
 
 ! Did
 
