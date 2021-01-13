@@ -1,5 +1,5 @@
 created: 20210111093807918
-modified: 20210111094909126
+modified: 20210113081345207
 tags: Journal [[Journal 2021]]
 title: 11th January 2021
 type: text/vnd.tiddlywiki
@@ -14,15 +14,14 @@ type: text/vnd.tiddlywiki
 
 ! My Tweets
 
-<$twitter type="tweet" tweetID="" />
-<$twitter type="tweet" tweetID="" />
+<$twitter type="tweet" tweetID="1348214581315981312" />
 
 !! Learning Challenge - [[German Irregular Verbs]]
 
 * [[Tag 2: Ein Fenster mit Ausblick]]
 
-! Noted
+! CPD
 
-! Read
+!! Blended and Online Learning Design
 
-! Today I Learned
+* [[Blended and Online Learning Design|https://www.futurelearn.com/courses/blended-and-online-learning-design/1/todo/90820]]
